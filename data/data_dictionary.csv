@@ -1,0 +1,56 @@
+table,column,meaning,unit,source,status_tag
+dim_district.csv,district_id,Unique key: state + '|' + normalised district name. Joins every table,text,pipeline (kantung.core.district_key),identifier
+dim_district.csv,state,State or federal territory,text,DOSM district tables,label
+dim_district.csv,dkey,"District name normalised so spelling variants across DOSM tables match (lower case, S.P./&/Hulu fixed)",text,pipeline,identifier
+dim_district.csv,src_note,"Where the 2024 values came from: 'district table', or 'state table (single-district unit)' for KL, Labuan, Putrajaya and Perlis",text,pipeline,label
+dim_district.csv,region,Peninsular / Sabah & Labuan / Sarawak,text,pipeline,label
+dim_district.csv,new_2024_district,"True for the six districts created on the 2024 survey boundaries (Membakut, Gedong, Sebuyau, Pantu, Lingga, Siburan)",true/false,pipeline (SPLITS_2025),label
+fact_district_year.csv,district_id,District key (see dim_district),text,pipeline,identifier
+fact_district_year.csv,year,Survey year,"year (2022, 2024)",DOSM HIES / LFS,label
+fact_district_year.csv,poverty_absolute,Share of households with income below the Poverty Line Income,% of households,hh_poverty_district; hh_poverty_state for single-district units,observed
+fact_district_year.csv,poverty_relative,"Share of households in relative poverty (DOSM definition, relative to median income); context only, not in KPX",% of households,hh_poverty_district,observed
+fact_district_year.csv,income_median,Median gross monthly household income,RM per month,hh_income_district; hies_state for single-district units,observed
+fact_district_year.csv,p_rate,Labour force participation rate,% of working-age population,lfs_district; lfs_state_sex for single-district units,observed
+fact_district_year.csv,u_rate,Unemployment rate,% of labour force,lfs_district; lfs_state_sex for single-district units,observed
+fact_district_year.csv,piped_water,Households with access to piped water,% of households,hh_access_amenities,observed
+fact_district_year.csv,electricity,Households with access to electricity,% of households,hh_access_amenities,observed
+fact_district_year.csv,sanitation,Households with access to sanitation,% of households,hh_access_amenities,observed
+fact_district_year.csv,pop,"Population (2025 figures used for the 2024 survey, the first year on the new boundaries)",thousand people,population_district,observed
+fact_district_year.csv,households,Estimated households = pop x 1000 / state average household size,households,pipeline from population_district + hh_lq_state,estimated
+fact_district_year.csv,dim_A,"Economic security score (log median income, absolute poverty); higher = better",score 0.01 to 1,"pipeline (KPX, bounds frozen at 2024 P1/P99)",derived
+fact_district_year.csv,dim_B,"Labour opportunity score (participation, unemployment); higher = better",score 0.01 to 1,pipeline (KPX),derived
+fact_district_year.csv,dim_C,"Living conditions score (piped water, electricity, sanitation); higher = better",score 0.01 to 1,pipeline (KPX),derived
+fact_district_year.csv,KPX,"Kantung Priority Index = 100 x (1 - geometric mean of dim_A, dim_B, dim_C); higher = more deprived. Relative score, not a poverty rate",index 0 to 99,pipeline,derived
+fact_district_year.csv,partial,True when only 2 of 3 dimensions exist (new 2024 districts lack labour data),true/false,pipeline,provisional
+fact_district_year.csv,rank_p05,"5th percentile rank across 5,000 Dirichlet(5,5,5) weight draws (1 = most deprived); 2024 complete units only",rank,pipeline (seed 2026),modelled
+fact_district_year.csv,rank_p50,Median rank across the weight draws,rank,pipeline (seed 2026),modelled
+fact_district_year.csv,rank_p95,95th percentile rank across the weight draws,rank,pipeline (seed 2026),modelled
+fact_district_year.csv,share_top,Share of weight draws in which the unit is in the most-deprived fifth,proportion 0 to 1,pipeline (seed 2026),modelled
+fact_district_year.csv,tier,"robust priority (share_top >= 0.9), watch (0.5 to 0.9), not flagged, or provisional (partial units); 2024 only",category,pipeline,derived
+fact_district_year.csv,outlook,"persistent (worst fifth by absolute poverty in 2022 and 2024), emerging (only 2024), easing (only 2022), not flagged; 2024 only",category,pipeline,derived
+fact_district_year.csv,poverty_2022,2022 absolute poverty on 2024 boundaries; new districts inherit their parent's value,% of households,hh_poverty_district 2022 + SPLITS_2025,derived
+fact_district_year.csv,households_status,Reminder that household counts are estimated,text,pipeline,label
+fact_allocation.csv,rule,"Ranking rule: District poverty, State poverty, KPX, Random (plus Persistent first until decision D11 removes it)",category,pipeline,label
+fact_allocation.csv,reach,Share of all households selected (equal cost per household assumed),proportion 0.05 to 0.60,pipeline,derived
+fact_allocation.csv,coverage,Share of all estimated poor households living in the selected units,proportion 0 to 1,pipeline,derived
+fact_allocation.csv,efficiency,coverage / reach; above 1 means better than random,ratio,pipeline,derived
+fact_allocation.csv,nonpoor_share,"Share of selected households that are not poor (leakage proxy, not improper payments)",proportion 0 to 1,pipeline,derived
+fact_allocation.csv,poor_reached,Estimated poor households in the selected units,households,pipeline,estimated
+fact_allocation.csv,gain_vs_baseline,coverage minus the State poverty rule's coverage at the same reach and mode (0.053 = 5.3 points); blank for Random,proportion points,pipeline,derived
+fact_allocation.csv,mode,"In-sample 2024 (ranked and scored on 2024) or Backtest 2022 to 2024 (ranked on 2022, scored on 2024)",category,pipeline,backtest
+fact_priority_list.csv,district_id,District key (see dim_district),text,pipeline,identifier
+fact_priority_list.csv,selected_share,Share of the district's households selected under the rule (1 = fully selected; between 0 and 1 for the marginal district),proportion 0 to 1,pipeline,derived
+fact_priority_list.csv,rule,Ranking rule (as in fact_allocation),category,pipeline,label
+fact_priority_list.csv,reach,"Household reach level (0.1, 0.2, 0.3)",proportion,pipeline,derived
+fact_priority_list.csv,mode,In-sample 2024 or Backtest 2022 to 2024,category,pipeline,backtest
+fact_headline.csv,metric,"Headline statistic name, e.g. within_state_share_poverty_absolute_households_2024",text,pipeline,label
+fact_headline.csv,value,"Share of variance within states (1 - between-state share), unweighted or household-weighted",proportion 0 to 1,pipeline (variance split),derived
+fact_map.csv,shape_key,Key of the map shape; equals district_id,text,pipeline (kantung.map),identifier
+fact_map.csv,district_id,District key (see dim_district),text,pipeline,identifier
+fact_map.csv,shape_type,polygon (geoBoundaries 2020 district) or dot (new 2024 district or Putrajaya),category,pipeline,label
+fact_map.csv,value_year,"Year of the value the shape is coloured by: 2024, or 2022 for the five split parents",year,pipeline (decision D8),label
+fact_map.csv,KPX_shown,KPX of value_year,index 0 to 99,fact_district_year,derived
+fact_map.csv,poverty_shown,Absolute poverty of value_year,% of households,fact_district_year,observed
+fact_map.csv,tier_shown,tier for 2024 shapes; 'split in 2024 (2022 value)' for the five split parents,category,pipeline (decision D8),derived
+fact_map.csv,lat,Latitude of a dot (blank for polygons),decimal degrees,"OpenStreetMap Nominatim, retrieved 25 Nov 2026 (ODbL)",observed
+fact_map.csv,lon,Longitude of a dot (blank for polygons),decimal degrees,"OpenStreetMap Nominatim, retrieved 25 Nov 2026 (ODbL)",observed

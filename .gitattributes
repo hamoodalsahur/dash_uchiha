@@ -1,0 +1,7 @@
+# Binary files: Git must never try to merge these line by line
+*.pbix    binary
+*.pbit    binary
+*.parquet binary
+*.xlsx    binary
+*.png     binary
+*.geojson -diff

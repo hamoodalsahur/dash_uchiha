@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Big or private files: keep these on Google Drive, never in Git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.m4a
+report/*.docx
+report/*.pdf
+~$*
+
+# Power BI temp/backup files
+*.pbix.bak
+*.pbit.bak

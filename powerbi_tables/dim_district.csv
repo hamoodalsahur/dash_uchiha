@@ -1,0 +1,167 @@
+district_id,state,dkey,src_note,region,new_2024_district
+Johor|batu pahat,Johor,batu pahat,district table,Peninsular,False
+Johor|johor bahru,Johor,johor bahru,district table,Peninsular,False
+Johor|kluang,Johor,kluang,district table,Peninsular,False
+Johor|kota tinggi,Johor,kota tinggi,district table,Peninsular,False
+Johor|kulai,Johor,kulai,district table,Peninsular,False
+Johor|mersing,Johor,mersing,district table,Peninsular,False
+Johor|muar,Johor,muar,district table,Peninsular,False
+Johor|pontian,Johor,pontian,district table,Peninsular,False
+Johor|segamat,Johor,segamat,district table,Peninsular,False
+Johor|tangkak,Johor,tangkak,district table,Peninsular,False
+Kedah|baling,Kedah,baling,district table,Peninsular,False
+Kedah|bandar baharu,Kedah,bandar baharu,district table,Peninsular,False
+Kedah|kota setar,Kedah,kota setar,district table,Peninsular,False
+Kedah|kuala muda,Kedah,kuala muda,district table,Peninsular,False
+Kedah|kubang pasu,Kedah,kubang pasu,district table,Peninsular,False
+Kedah|kulim,Kedah,kulim,district table,Peninsular,False
+Kedah|langkawi,Kedah,langkawi,district table,Peninsular,False
+Kedah|padang terap,Kedah,padang terap,district table,Peninsular,False
+Kedah|pendang,Kedah,pendang,district table,Peninsular,False
+Kedah|pokok sena,Kedah,pokok sena,district table,Peninsular,False
+Kedah|sik,Kedah,sik,district table,Peninsular,False
+Kedah|yan,Kedah,yan,district table,Peninsular,False
+Kelantan|bachok,Kelantan,bachok,district table,Peninsular,False
+Kelantan|gua musang,Kelantan,gua musang,district table,Peninsular,False
+Kelantan|jeli,Kelantan,jeli,district table,Peninsular,False
+Kelantan|kecil lojing,Kelantan,kecil lojing,district table,Peninsular,False
+Kelantan|kota bharu,Kelantan,kota bharu,district table,Peninsular,False
+Kelantan|kuala krai,Kelantan,kuala krai,district table,Peninsular,False
+Kelantan|machang,Kelantan,machang,district table,Peninsular,False
+Kelantan|pasir mas,Kelantan,pasir mas,district table,Peninsular,False
+Kelantan|pasir puteh,Kelantan,pasir puteh,district table,Peninsular,False
+Kelantan|tanah merah,Kelantan,tanah merah,district table,Peninsular,False
+Kelantan|tumpat,Kelantan,tumpat,district table,Peninsular,False
+Melaka|alor gajah,Melaka,alor gajah,district table,Peninsular,False
+Melaka|jasin,Melaka,jasin,district table,Peninsular,False
+Melaka|melaka tengah,Melaka,melaka tengah,district table,Peninsular,False
+Negeri Sembilan|jelebu,Negeri Sembilan,jelebu,district table,Peninsular,False
+Negeri Sembilan|jempol,Negeri Sembilan,jempol,district table,Peninsular,False
+Negeri Sembilan|kuala pilah,Negeri Sembilan,kuala pilah,district table,Peninsular,False
+Negeri Sembilan|port dickson,Negeri Sembilan,port dickson,district table,Peninsular,False
+Negeri Sembilan|rembau,Negeri Sembilan,rembau,district table,Peninsular,False
+Negeri Sembilan|seremban,Negeri Sembilan,seremban,district table,Peninsular,False
+Negeri Sembilan|tampin,Negeri Sembilan,tampin,district table,Peninsular,False
+Pahang|bentong,Pahang,bentong,district table,Peninsular,False
+Pahang|bera,Pahang,bera,district table,Peninsular,False
+Pahang|cameron highlands,Pahang,cameron highlands,district table,Peninsular,False
+Pahang|jerantut,Pahang,jerantut,district table,Peninsular,False
+Pahang|kuantan,Pahang,kuantan,district table,Peninsular,False
+Pahang|lipis,Pahang,lipis,district table,Peninsular,False
+Pahang|maran,Pahang,maran,district table,Peninsular,False
+Pahang|pekan,Pahang,pekan,district table,Peninsular,False
+Pahang|raub,Pahang,raub,district table,Peninsular,False
+Pahang|rompin,Pahang,rompin,district table,Peninsular,False
+Pahang|temerloh,Pahang,temerloh,district table,Peninsular,False
+Perak|bagan datuk,Perak,bagan datuk,district table,Peninsular,False
+Perak|batang padang,Perak,batang padang,district table,Peninsular,False
+Perak|hilir perak,Perak,hilir perak,district table,Peninsular,False
+Perak|kampar,Perak,kampar,district table,Peninsular,False
+Perak|kerian,Perak,kerian,district table,Peninsular,False
+Perak|kinta,Perak,kinta,district table,Peninsular,False
+Perak|kuala kangsar,Perak,kuala kangsar,district table,Peninsular,False
+Perak|larut dan matang,Perak,larut dan matang,district table,Peninsular,False
+Perak|manjung,Perak,manjung,district table,Peninsular,False
+Perak|muallim,Perak,muallim,district table,Peninsular,False
+Perak|perak tengah,Perak,perak tengah,district table,Peninsular,False
+Perak|selama,Perak,selama,district table,Peninsular,False
+Perak|ulu perak,Perak,ulu perak,district table,Peninsular,False
+Pulau Pinang|barat daya,Pulau Pinang,barat daya,district table,Peninsular,False
+Pulau Pinang|seberang perai selatan,Pulau Pinang,seberang perai selatan,district table,Peninsular,False
+Pulau Pinang|seberang perai tengah,Pulau Pinang,seberang perai tengah,district table,Peninsular,False
+Pulau Pinang|seberang perai utara,Pulau Pinang,seberang perai utara,district table,Peninsular,False
+Pulau Pinang|timur laut,Pulau Pinang,timur laut,district table,Peninsular,False
+Sabah|beaufort,Sabah,beaufort,district table,Sabah & Labuan,False
+Sabah|beluran,Sabah,beluran,district table,Sabah & Labuan,False
+Sabah|kalabakan,Sabah,kalabakan,district table,Sabah & Labuan,False
+Sabah|keningau,Sabah,keningau,district table,Sabah & Labuan,False
+Sabah|kinabatangan,Sabah,kinabatangan,district table,Sabah & Labuan,False
+Sabah|kota belud,Sabah,kota belud,district table,Sabah & Labuan,False
+Sabah|kota kinabalu,Sabah,kota kinabalu,district table,Sabah & Labuan,False
+Sabah|kota marudu,Sabah,kota marudu,district table,Sabah & Labuan,False
+Sabah|kuala penyu,Sabah,kuala penyu,district table,Sabah & Labuan,False
+Sabah|kudat,Sabah,kudat,district table,Sabah & Labuan,False
+Sabah|kunak,Sabah,kunak,district table,Sabah & Labuan,False
+Sabah|lahad datu,Sabah,lahad datu,district table,Sabah & Labuan,False
+Sabah|membakut,Sabah,membakut,district table,Sabah & Labuan,True
+Sabah|nabawan,Sabah,nabawan,district table,Sabah & Labuan,False
+Sabah|papar,Sabah,papar,district table,Sabah & Labuan,False
+Sabah|penampang,Sabah,penampang,district table,Sabah & Labuan,False
+Sabah|pitas,Sabah,pitas,district table,Sabah & Labuan,False
+Sabah|putatan,Sabah,putatan,district table,Sabah & Labuan,False
+Sabah|ranau,Sabah,ranau,district table,Sabah & Labuan,False
+Sabah|sandakan,Sabah,sandakan,district table,Sabah & Labuan,False
+Sabah|semporna,Sabah,semporna,district table,Sabah & Labuan,False
+Sabah|sipitang,Sabah,sipitang,district table,Sabah & Labuan,False
+Sabah|tambunan,Sabah,tambunan,district table,Sabah & Labuan,False
+Sabah|tawau,Sabah,tawau,district table,Sabah & Labuan,False
+Sabah|telupid,Sabah,telupid,district table,Sabah & Labuan,False
+Sabah|tenom,Sabah,tenom,district table,Sabah & Labuan,False
+Sabah|tongod,Sabah,tongod,district table,Sabah & Labuan,False
+Sabah|tuaran,Sabah,tuaran,district table,Sabah & Labuan,False
+Sarawak|asajaya,Sarawak,asajaya,district table,Sarawak,False
+Sarawak|bau,Sarawak,bau,district table,Sarawak,False
+Sarawak|belaga,Sarawak,belaga,district table,Sarawak,False
+Sarawak|beluru,Sarawak,beluru,district table,Sarawak,False
+Sarawak|betong,Sarawak,betong,district table,Sarawak,False
+Sarawak|bintulu,Sarawak,bintulu,district table,Sarawak,False
+Sarawak|bukit mabong,Sarawak,bukit mabong,district table,Sarawak,False
+Sarawak|dalat,Sarawak,dalat,district table,Sarawak,False
+Sarawak|daro,Sarawak,daro,district table,Sarawak,False
+Sarawak|gedong,Sarawak,gedong,district table,Sarawak,True
+Sarawak|julau,Sarawak,julau,district table,Sarawak,False
+Sarawak|kabong,Sarawak,kabong,district table,Sarawak,False
+Sarawak|kanowit,Sarawak,kanowit,district table,Sarawak,False
+Sarawak|kapit,Sarawak,kapit,district table,Sarawak,False
+Sarawak|kuching,Sarawak,kuching,district table,Sarawak,False
+Sarawak|lawas,Sarawak,lawas,district table,Sarawak,False
+Sarawak|limbang,Sarawak,limbang,district table,Sarawak,False
+Sarawak|lingga,Sarawak,lingga,district table,Sarawak,True
+Sarawak|lubok antu,Sarawak,lubok antu,district table,Sarawak,False
+Sarawak|lundu,Sarawak,lundu,district table,Sarawak,False
+Sarawak|maradong,Sarawak,maradong,district table,Sarawak,False
+Sarawak|marudi,Sarawak,marudi,district table,Sarawak,False
+Sarawak|matu,Sarawak,matu,district table,Sarawak,False
+Sarawak|miri,Sarawak,miri,district table,Sarawak,False
+Sarawak|mukah,Sarawak,mukah,district table,Sarawak,False
+Sarawak|pakan,Sarawak,pakan,district table,Sarawak,False
+Sarawak|pantu,Sarawak,pantu,district table,Sarawak,True
+Sarawak|pusa,Sarawak,pusa,district table,Sarawak,False
+Sarawak|samarahan,Sarawak,samarahan,district table,Sarawak,False
+Sarawak|saratok,Sarawak,saratok,district table,Sarawak,False
+Sarawak|sarikei,Sarawak,sarikei,district table,Sarawak,False
+Sarawak|sebauh,Sarawak,sebauh,district table,Sarawak,False
+Sarawak|sebuyau,Sarawak,sebuyau,district table,Sarawak,True
+Sarawak|selangau,Sarawak,selangau,district table,Sarawak,False
+Sarawak|serian,Sarawak,serian,district table,Sarawak,False
+Sarawak|sibu,Sarawak,sibu,district table,Sarawak,False
+Sarawak|siburan,Sarawak,siburan,district table,Sarawak,True
+Sarawak|simunjan,Sarawak,simunjan,district table,Sarawak,False
+Sarawak|song,Sarawak,song,district table,Sarawak,False
+Sarawak|sri aman,Sarawak,sri aman,district table,Sarawak,False
+Sarawak|subis,Sarawak,subis,district table,Sarawak,False
+Sarawak|tanjung manis,Sarawak,tanjung manis,district table,Sarawak,False
+Sarawak|tatau,Sarawak,tatau,district table,Sarawak,False
+Sarawak|tebedu,Sarawak,tebedu,district table,Sarawak,False
+Sarawak|telang usan,Sarawak,telang usan,district table,Sarawak,False
+Selangor|gombak,Selangor,gombak,district table,Peninsular,False
+Selangor|klang,Selangor,klang,district table,Peninsular,False
+Selangor|kuala langat,Selangor,kuala langat,district table,Peninsular,False
+Selangor|kuala selangor,Selangor,kuala selangor,district table,Peninsular,False
+Selangor|petaling,Selangor,petaling,district table,Peninsular,False
+Selangor|sabak bernam,Selangor,sabak bernam,district table,Peninsular,False
+Selangor|sepang,Selangor,sepang,district table,Peninsular,False
+Selangor|ulu langat,Selangor,ulu langat,district table,Peninsular,False
+Selangor|ulu selangor,Selangor,ulu selangor,district table,Peninsular,False
+Terengganu|besut,Terengganu,besut,district table,Peninsular,False
+Terengganu|dungun,Terengganu,dungun,district table,Peninsular,False
+Terengganu|kemaman,Terengganu,kemaman,district table,Peninsular,False
+Terengganu|kuala nerus,Terengganu,kuala nerus,district table,Peninsular,False
+Terengganu|kuala terengganu,Terengganu,kuala terengganu,district table,Peninsular,False
+Terengganu|marang,Terengganu,marang,district table,Peninsular,False
+Terengganu|setiu,Terengganu,setiu,district table,Peninsular,False
+Terengganu|ulu terengganu,Terengganu,ulu terengganu,district table,Peninsular,False
+W.P. Kuala Lumpur|w.p. kuala lumpur,W.P. Kuala Lumpur,w.p. kuala lumpur,state table (single-district unit),Peninsular,False
+W.P. Labuan|w.p. labuan,W.P. Labuan,w.p. labuan,state table (single-district unit),Sabah & Labuan,False
+W.P. Putrajaya|w.p. putrajaya,W.P. Putrajaya,w.p. putrajaya,state table (single-district unit),Peninsular,False
+Perlis|perlis,Perlis,perlis,state table (single-district unit),Peninsular,False

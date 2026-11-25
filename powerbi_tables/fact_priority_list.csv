@@ -1,0 +1,1687 @@
+district_id,selected_share,rule,reach,mode
+Kedah|baling,1.0,District poverty,0.1,In-sample 2024
+Kelantan|gua musang,1.0,District poverty,0.1,In-sample 2024
+Kelantan|kecil lojing,1.0,District poverty,0.1,In-sample 2024
+Kelantan|kuala krai,1.0,District poverty,0.1,In-sample 2024
+Kelantan|tanah merah,1.0,District poverty,0.1,In-sample 2024
+Kelantan|tumpat,0.06697059897379766,District poverty,0.1,In-sample 2024
+Perak|ulu perak,1.0,District poverty,0.1,In-sample 2024
+Sabah|beaufort,1.0,District poverty,0.1,In-sample 2024
+Sabah|beluran,1.0,District poverty,0.1,In-sample 2024
+Sabah|kalabakan,1.0,District poverty,0.1,In-sample 2024
+Sabah|keningau,1.0,District poverty,0.1,In-sample 2024
+Sabah|kinabatangan,1.0,District poverty,0.1,In-sample 2024
+Sabah|kota belud,1.0,District poverty,0.1,In-sample 2024
+Sabah|kota marudu,1.0,District poverty,0.1,In-sample 2024
+Sabah|kuala penyu,1.0,District poverty,0.1,In-sample 2024
+Sabah|kudat,1.0,District poverty,0.1,In-sample 2024
+Sabah|kunak,1.0,District poverty,0.1,In-sample 2024
+Sabah|lahad datu,1.0,District poverty,0.1,In-sample 2024
+Sabah|membakut,1.0,District poverty,0.1,In-sample 2024
+Sabah|nabawan,1.0,District poverty,0.1,In-sample 2024
+Sabah|pitas,1.0,District poverty,0.1,In-sample 2024
+Sabah|ranau,1.0,District poverty,0.1,In-sample 2024
+Sabah|sandakan,1.0,District poverty,0.1,In-sample 2024
+Sabah|semporna,1.0,District poverty,0.1,In-sample 2024
+Sabah|sipitang,1.0,District poverty,0.1,In-sample 2024
+Sabah|tawau,1.0,District poverty,0.1,In-sample 2024
+Sabah|telupid,1.0,District poverty,0.1,In-sample 2024
+Sabah|tongod,1.0,District poverty,0.1,In-sample 2024
+Sabah|tuaran,1.0,District poverty,0.1,In-sample 2024
+Sarawak|asajaya,1.0,District poverty,0.1,In-sample 2024
+Sarawak|belaga,1.0,District poverty,0.1,In-sample 2024
+Sarawak|daro,1.0,District poverty,0.1,In-sample 2024
+Sarawak|gedong,1.0,District poverty,0.1,In-sample 2024
+Sarawak|julau,1.0,District poverty,0.1,In-sample 2024
+Sarawak|kanowit,1.0,District poverty,0.1,In-sample 2024
+Sarawak|kapit,1.0,District poverty,0.1,In-sample 2024
+Sarawak|lawas,1.0,District poverty,0.1,In-sample 2024
+Sarawak|limbang,1.0,District poverty,0.1,In-sample 2024
+Sarawak|lubok antu,1.0,District poverty,0.1,In-sample 2024
+Sarawak|lundu,1.0,District poverty,0.1,In-sample 2024
+Sarawak|maradong,1.0,District poverty,0.1,In-sample 2024
+Sarawak|pakan,1.0,District poverty,0.1,In-sample 2024
+Sarawak|pusa,1.0,District poverty,0.1,In-sample 2024
+Sarawak|sarikei,1.0,District poverty,0.1,In-sample 2024
+Sarawak|sebuyau,1.0,District poverty,0.1,In-sample 2024
+Sarawak|selangau,1.0,District poverty,0.1,In-sample 2024
+Sarawak|simunjan,1.0,District poverty,0.1,In-sample 2024
+Sarawak|tanjung manis,1.0,District poverty,0.1,In-sample 2024
+Sarawak|tebedu,1.0,District poverty,0.1,In-sample 2024
+Terengganu|besut,1.0,District poverty,0.1,In-sample 2024
+Kedah|baling,1.0,District poverty,0.2,In-sample 2024
+Kedah|kuala muda,1.0,District poverty,0.2,In-sample 2024
+Kelantan|bachok,1.0,District poverty,0.2,In-sample 2024
+Kelantan|gua musang,1.0,District poverty,0.2,In-sample 2024
+Kelantan|jeli,1.0,District poverty,0.2,In-sample 2024
+Kelantan|kecil lojing,1.0,District poverty,0.2,In-sample 2024
+Kelantan|kota bharu,1.0,District poverty,0.2,In-sample 2024
+Kelantan|kuala krai,1.0,District poverty,0.2,In-sample 2024
+Kelantan|pasir puteh,1.0,District poverty,0.2,In-sample 2024
+Kelantan|tanah merah,1.0,District poverty,0.2,In-sample 2024
+Kelantan|tumpat,1.0,District poverty,0.2,In-sample 2024
+Pahang|bera,0.7600218560775601,District poverty,0.2,In-sample 2024
+Pahang|lipis,1.0,District poverty,0.2,In-sample 2024
+Pahang|pekan,1.0,District poverty,0.2,In-sample 2024
+Perak|bagan datuk,1.0,District poverty,0.2,In-sample 2024
+Perak|batang padang,1.0,District poverty,0.2,In-sample 2024
+Perak|hilir perak,1.0,District poverty,0.2,In-sample 2024
+Perak|kuala kangsar,1.0,District poverty,0.2,In-sample 2024
+Perak|larut dan matang,0.7600218560775601,District poverty,0.2,In-sample 2024
+Perak|perak tengah,1.0,District poverty,0.2,In-sample 2024
+Perak|selama,1.0,District poverty,0.2,In-sample 2024
+Perak|ulu perak,1.0,District poverty,0.2,In-sample 2024
+Sabah|beaufort,1.0,District poverty,0.2,In-sample 2024
+Sabah|beluran,1.0,District poverty,0.2,In-sample 2024
+Sabah|kalabakan,1.0,District poverty,0.2,In-sample 2024
+Sabah|keningau,1.0,District poverty,0.2,In-sample 2024
+Sabah|kinabatangan,1.0,District poverty,0.2,In-sample 2024
+Sabah|kota belud,1.0,District poverty,0.2,In-sample 2024
+Sabah|kota kinabalu,1.0,District poverty,0.2,In-sample 2024
+Sabah|kota marudu,1.0,District poverty,0.2,In-sample 2024
+Sabah|kuala penyu,1.0,District poverty,0.2,In-sample 2024
+Sabah|kudat,1.0,District poverty,0.2,In-sample 2024
+Sabah|kunak,1.0,District poverty,0.2,In-sample 2024
+Sabah|lahad datu,1.0,District poverty,0.2,In-sample 2024
+Sabah|membakut,1.0,District poverty,0.2,In-sample 2024
+Sabah|nabawan,1.0,District poverty,0.2,In-sample 2024
+Sabah|papar,1.0,District poverty,0.2,In-sample 2024
+Sabah|pitas,1.0,District poverty,0.2,In-sample 2024
+Sabah|ranau,1.0,District poverty,0.2,In-sample 2024
+Sabah|sandakan,1.0,District poverty,0.2,In-sample 2024
+Sabah|semporna,1.0,District poverty,0.2,In-sample 2024
+Sabah|sipitang,1.0,District poverty,0.2,In-sample 2024
+Sabah|tawau,1.0,District poverty,0.2,In-sample 2024
+Sabah|telupid,1.0,District poverty,0.2,In-sample 2024
+Sabah|tenom,1.0,District poverty,0.2,In-sample 2024
+Sabah|tongod,1.0,District poverty,0.2,In-sample 2024
+Sabah|tuaran,1.0,District poverty,0.2,In-sample 2024
+Sarawak|asajaya,1.0,District poverty,0.2,In-sample 2024
+Sarawak|belaga,1.0,District poverty,0.2,In-sample 2024
+Sarawak|beluru,1.0,District poverty,0.2,In-sample 2024
+Sarawak|dalat,1.0,District poverty,0.2,In-sample 2024
+Sarawak|daro,1.0,District poverty,0.2,In-sample 2024
+Sarawak|gedong,1.0,District poverty,0.2,In-sample 2024
+Sarawak|julau,1.0,District poverty,0.2,In-sample 2024
+Sarawak|kanowit,1.0,District poverty,0.2,In-sample 2024
+Sarawak|kapit,1.0,District poverty,0.2,In-sample 2024
+Sarawak|lawas,1.0,District poverty,0.2,In-sample 2024
+Sarawak|limbang,1.0,District poverty,0.2,In-sample 2024
+Sarawak|lubok antu,1.0,District poverty,0.2,In-sample 2024
+Sarawak|lundu,1.0,District poverty,0.2,In-sample 2024
+Sarawak|maradong,1.0,District poverty,0.2,In-sample 2024
+Sarawak|matu,1.0,District poverty,0.2,In-sample 2024
+Sarawak|mukah,1.0,District poverty,0.2,In-sample 2024
+Sarawak|pakan,1.0,District poverty,0.2,In-sample 2024
+Sarawak|pantu,1.0,District poverty,0.2,In-sample 2024
+Sarawak|pusa,1.0,District poverty,0.2,In-sample 2024
+Sarawak|sarikei,1.0,District poverty,0.2,In-sample 2024
+Sarawak|sebuyau,1.0,District poverty,0.2,In-sample 2024
+Sarawak|selangau,1.0,District poverty,0.2,In-sample 2024
+Sarawak|serian,1.0,District poverty,0.2,In-sample 2024
+Sarawak|simunjan,1.0,District poverty,0.2,In-sample 2024
+Sarawak|song,1.0,District poverty,0.2,In-sample 2024
+Sarawak|tanjung manis,1.0,District poverty,0.2,In-sample 2024
+Sarawak|tebedu,1.0,District poverty,0.2,In-sample 2024
+Terengganu|besut,1.0,District poverty,0.2,In-sample 2024
+Johor|mersing,1.0,District poverty,0.3,In-sample 2024
+Kedah|baling,1.0,District poverty,0.3,In-sample 2024
+Kedah|kuala muda,1.0,District poverty,0.3,In-sample 2024
+Kedah|kulim,1.0,District poverty,0.3,In-sample 2024
+Kedah|padang terap,1.0,District poverty,0.3,In-sample 2024
+Kedah|pendang,1.0,District poverty,0.3,In-sample 2024
+Kedah|pokok sena,1.0,District poverty,0.3,In-sample 2024
+Kedah|sik,1.0,District poverty,0.3,In-sample 2024
+Kedah|yan,1.0,District poverty,0.3,In-sample 2024
+Kelantan|bachok,1.0,District poverty,0.3,In-sample 2024
+Kelantan|gua musang,1.0,District poverty,0.3,In-sample 2024
+Kelantan|jeli,1.0,District poverty,0.3,In-sample 2024
+Kelantan|kecil lojing,1.0,District poverty,0.3,In-sample 2024
+Kelantan|kota bharu,1.0,District poverty,0.3,In-sample 2024
+Kelantan|kuala krai,1.0,District poverty,0.3,In-sample 2024
+Kelantan|machang,1.0,District poverty,0.3,In-sample 2024
+Kelantan|pasir mas,1.0,District poverty,0.3,In-sample 2024
+Kelantan|pasir puteh,1.0,District poverty,0.3,In-sample 2024
+Kelantan|tanah merah,1.0,District poverty,0.3,In-sample 2024
+Kelantan|tumpat,1.0,District poverty,0.3,In-sample 2024
+Negeri Sembilan|jelebu,1.0,District poverty,0.3,In-sample 2024
+Negeri Sembilan|jempol,1.0,District poverty,0.3,In-sample 2024
+Negeri Sembilan|kuala pilah,0.23028717404385543,District poverty,0.3,In-sample 2024
+Negeri Sembilan|tampin,1.0,District poverty,0.3,In-sample 2024
+Pahang|bera,1.0,District poverty,0.3,In-sample 2024
+Pahang|jerantut,1.0,District poverty,0.3,In-sample 2024
+Pahang|lipis,1.0,District poverty,0.3,In-sample 2024
+Pahang|maran,1.0,District poverty,0.3,In-sample 2024
+Pahang|pekan,1.0,District poverty,0.3,In-sample 2024
+Pahang|rompin,1.0,District poverty,0.3,In-sample 2024
+Pahang|temerloh,0.23028717404385543,District poverty,0.3,In-sample 2024
+Perak|bagan datuk,1.0,District poverty,0.3,In-sample 2024
+Perak|batang padang,1.0,District poverty,0.3,In-sample 2024
+Perak|hilir perak,1.0,District poverty,0.3,In-sample 2024
+Perak|kerian,1.0,District poverty,0.3,In-sample 2024
+Perak|kuala kangsar,1.0,District poverty,0.3,In-sample 2024
+Perak|larut dan matang,1.0,District poverty,0.3,In-sample 2024
+Perak|muallim,1.0,District poverty,0.3,In-sample 2024
+Perak|perak tengah,1.0,District poverty,0.3,In-sample 2024
+Perak|selama,1.0,District poverty,0.3,In-sample 2024
+Perak|ulu perak,1.0,District poverty,0.3,In-sample 2024
+Sabah|beaufort,1.0,District poverty,0.3,In-sample 2024
+Sabah|beluran,1.0,District poverty,0.3,In-sample 2024
+Sabah|kalabakan,1.0,District poverty,0.3,In-sample 2024
+Sabah|keningau,1.0,District poverty,0.3,In-sample 2024
+Sabah|kinabatangan,1.0,District poverty,0.3,In-sample 2024
+Sabah|kota belud,1.0,District poverty,0.3,In-sample 2024
+Sabah|kota kinabalu,1.0,District poverty,0.3,In-sample 2024
+Sabah|kota marudu,1.0,District poverty,0.3,In-sample 2024
+Sabah|kuala penyu,1.0,District poverty,0.3,In-sample 2024
+Sabah|kudat,1.0,District poverty,0.3,In-sample 2024
+Sabah|kunak,1.0,District poverty,0.3,In-sample 2024
+Sabah|lahad datu,1.0,District poverty,0.3,In-sample 2024
+Sabah|membakut,1.0,District poverty,0.3,In-sample 2024
+Sabah|nabawan,1.0,District poverty,0.3,In-sample 2024
+Sabah|papar,1.0,District poverty,0.3,In-sample 2024
+Sabah|pitas,1.0,District poverty,0.3,In-sample 2024
+Sabah|putatan,1.0,District poverty,0.3,In-sample 2024
+Sabah|ranau,1.0,District poverty,0.3,In-sample 2024
+Sabah|sandakan,1.0,District poverty,0.3,In-sample 2024
+Sabah|semporna,1.0,District poverty,0.3,In-sample 2024
+Sabah|sipitang,1.0,District poverty,0.3,In-sample 2024
+Sabah|tambunan,1.0,District poverty,0.3,In-sample 2024
+Sabah|tawau,1.0,District poverty,0.3,In-sample 2024
+Sabah|telupid,1.0,District poverty,0.3,In-sample 2024
+Sabah|tenom,1.0,District poverty,0.3,In-sample 2024
+Sabah|tongod,1.0,District poverty,0.3,In-sample 2024
+Sabah|tuaran,1.0,District poverty,0.3,In-sample 2024
+Sarawak|asajaya,1.0,District poverty,0.3,In-sample 2024
+Sarawak|bau,0.23028717404385543,District poverty,0.3,In-sample 2024
+Sarawak|belaga,1.0,District poverty,0.3,In-sample 2024
+Sarawak|beluru,1.0,District poverty,0.3,In-sample 2024
+Sarawak|betong,1.0,District poverty,0.3,In-sample 2024
+Sarawak|bukit mabong,1.0,District poverty,0.3,In-sample 2024
+Sarawak|dalat,1.0,District poverty,0.3,In-sample 2024
+Sarawak|daro,1.0,District poverty,0.3,In-sample 2024
+Sarawak|gedong,1.0,District poverty,0.3,In-sample 2024
+Sarawak|julau,1.0,District poverty,0.3,In-sample 2024
+Sarawak|kanowit,1.0,District poverty,0.3,In-sample 2024
+Sarawak|kapit,1.0,District poverty,0.3,In-sample 2024
+Sarawak|kuching,1.0,District poverty,0.3,In-sample 2024
+Sarawak|lawas,1.0,District poverty,0.3,In-sample 2024
+Sarawak|limbang,1.0,District poverty,0.3,In-sample 2024
+Sarawak|lingga,1.0,District poverty,0.3,In-sample 2024
+Sarawak|lubok antu,1.0,District poverty,0.3,In-sample 2024
+Sarawak|lundu,1.0,District poverty,0.3,In-sample 2024
+Sarawak|maradong,1.0,District poverty,0.3,In-sample 2024
+Sarawak|matu,1.0,District poverty,0.3,In-sample 2024
+Sarawak|mukah,1.0,District poverty,0.3,In-sample 2024
+Sarawak|pakan,1.0,District poverty,0.3,In-sample 2024
+Sarawak|pantu,1.0,District poverty,0.3,In-sample 2024
+Sarawak|pusa,1.0,District poverty,0.3,In-sample 2024
+Sarawak|samarahan,1.0,District poverty,0.3,In-sample 2024
+Sarawak|sarikei,1.0,District poverty,0.3,In-sample 2024
+Sarawak|sebuyau,1.0,District poverty,0.3,In-sample 2024
+Sarawak|selangau,1.0,District poverty,0.3,In-sample 2024
+Sarawak|serian,1.0,District poverty,0.3,In-sample 2024
+Sarawak|sibu,1.0,District poverty,0.3,In-sample 2024
+Sarawak|simunjan,1.0,District poverty,0.3,In-sample 2024
+Sarawak|song,1.0,District poverty,0.3,In-sample 2024
+Sarawak|sri aman,0.23028717404385543,District poverty,0.3,In-sample 2024
+Sarawak|tanjung manis,1.0,District poverty,0.3,In-sample 2024
+Sarawak|tebedu,1.0,District poverty,0.3,In-sample 2024
+Terengganu|besut,1.0,District poverty,0.3,In-sample 2024
+Terengganu|marang,1.0,District poverty,0.3,In-sample 2024
+Terengganu|ulu terengganu,1.0,District poverty,0.3,In-sample 2024
+Kelantan|bachok,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|gua musang,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|jeli,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|kecil lojing,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|kota bharu,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|kuala krai,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|machang,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|pasir mas,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|pasir puteh,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|tanah merah,0.2685472743263865,State poverty,0.1,In-sample 2024
+Kelantan|tumpat,0.2685472743263865,State poverty,0.1,In-sample 2024
+Sabah|beaufort,1.0,State poverty,0.1,In-sample 2024
+Sabah|beluran,1.0,State poverty,0.1,In-sample 2024
+Sabah|kalabakan,1.0,State poverty,0.1,In-sample 2024
+Sabah|keningau,1.0,State poverty,0.1,In-sample 2024
+Sabah|kinabatangan,1.0,State poverty,0.1,In-sample 2024
+Sabah|kota belud,1.0,State poverty,0.1,In-sample 2024
+Sabah|kota kinabalu,1.0,State poverty,0.1,In-sample 2024
+Sabah|kota marudu,1.0,State poverty,0.1,In-sample 2024
+Sabah|kuala penyu,1.0,State poverty,0.1,In-sample 2024
+Sabah|kudat,1.0,State poverty,0.1,In-sample 2024
+Sabah|kunak,1.0,State poverty,0.1,In-sample 2024
+Sabah|lahad datu,1.0,State poverty,0.1,In-sample 2024
+Sabah|membakut,1.0,State poverty,0.1,In-sample 2024
+Sabah|nabawan,1.0,State poverty,0.1,In-sample 2024
+Sabah|papar,1.0,State poverty,0.1,In-sample 2024
+Sabah|penampang,1.0,State poverty,0.1,In-sample 2024
+Sabah|pitas,1.0,State poverty,0.1,In-sample 2024
+Sabah|putatan,1.0,State poverty,0.1,In-sample 2024
+Sabah|ranau,1.0,State poverty,0.1,In-sample 2024
+Sabah|sandakan,1.0,State poverty,0.1,In-sample 2024
+Sabah|semporna,1.0,State poverty,0.1,In-sample 2024
+Sabah|sipitang,1.0,State poverty,0.1,In-sample 2024
+Sabah|tambunan,1.0,State poverty,0.1,In-sample 2024
+Sabah|tawau,1.0,State poverty,0.1,In-sample 2024
+Sabah|telupid,1.0,State poverty,0.1,In-sample 2024
+Sabah|tenom,1.0,State poverty,0.1,In-sample 2024
+Sabah|tongod,1.0,State poverty,0.1,In-sample 2024
+Sabah|tuaran,1.0,State poverty,0.1,In-sample 2024
+Kedah|baling,1.0,State poverty,0.2,In-sample 2024
+Kedah|bandar baharu,1.0,State poverty,0.2,In-sample 2024
+Kedah|kota setar,1.0,State poverty,0.2,In-sample 2024
+Kedah|kuala muda,1.0,State poverty,0.2,In-sample 2024
+Kedah|kubang pasu,1.0,State poverty,0.2,In-sample 2024
+Kedah|kulim,1.0,State poverty,0.2,In-sample 2024
+Kedah|langkawi,1.0,State poverty,0.2,In-sample 2024
+Kedah|padang terap,1.0,State poverty,0.2,In-sample 2024
+Kedah|pendang,1.0,State poverty,0.2,In-sample 2024
+Kedah|pokok sena,1.0,State poverty,0.2,In-sample 2024
+Kedah|sik,1.0,State poverty,0.2,In-sample 2024
+Kedah|yan,1.0,State poverty,0.2,In-sample 2024
+Kelantan|bachok,1.0,State poverty,0.2,In-sample 2024
+Kelantan|gua musang,1.0,State poverty,0.2,In-sample 2024
+Kelantan|jeli,1.0,State poverty,0.2,In-sample 2024
+Kelantan|kecil lojing,1.0,State poverty,0.2,In-sample 2024
+Kelantan|kota bharu,1.0,State poverty,0.2,In-sample 2024
+Kelantan|kuala krai,1.0,State poverty,0.2,In-sample 2024
+Kelantan|machang,1.0,State poverty,0.2,In-sample 2024
+Kelantan|pasir mas,1.0,State poverty,0.2,In-sample 2024
+Kelantan|pasir puteh,1.0,State poverty,0.2,In-sample 2024
+Kelantan|tanah merah,1.0,State poverty,0.2,In-sample 2024
+Kelantan|tumpat,1.0,State poverty,0.2,In-sample 2024
+Sabah|beaufort,1.0,State poverty,0.2,In-sample 2024
+Sabah|beluran,1.0,State poverty,0.2,In-sample 2024
+Sabah|kalabakan,1.0,State poverty,0.2,In-sample 2024
+Sabah|keningau,1.0,State poverty,0.2,In-sample 2024
+Sabah|kinabatangan,1.0,State poverty,0.2,In-sample 2024
+Sabah|kota belud,1.0,State poverty,0.2,In-sample 2024
+Sabah|kota kinabalu,1.0,State poverty,0.2,In-sample 2024
+Sabah|kota marudu,1.0,State poverty,0.2,In-sample 2024
+Sabah|kuala penyu,1.0,State poverty,0.2,In-sample 2024
+Sabah|kudat,1.0,State poverty,0.2,In-sample 2024
+Sabah|kunak,1.0,State poverty,0.2,In-sample 2024
+Sabah|lahad datu,1.0,State poverty,0.2,In-sample 2024
+Sabah|membakut,1.0,State poverty,0.2,In-sample 2024
+Sabah|nabawan,1.0,State poverty,0.2,In-sample 2024
+Sabah|papar,1.0,State poverty,0.2,In-sample 2024
+Sabah|penampang,1.0,State poverty,0.2,In-sample 2024
+Sabah|pitas,1.0,State poverty,0.2,In-sample 2024
+Sabah|putatan,1.0,State poverty,0.2,In-sample 2024
+Sabah|ranau,1.0,State poverty,0.2,In-sample 2024
+Sabah|sandakan,1.0,State poverty,0.2,In-sample 2024
+Sabah|semporna,1.0,State poverty,0.2,In-sample 2024
+Sabah|sipitang,1.0,State poverty,0.2,In-sample 2024
+Sabah|tambunan,1.0,State poverty,0.2,In-sample 2024
+Sabah|tawau,1.0,State poverty,0.2,In-sample 2024
+Sabah|telupid,1.0,State poverty,0.2,In-sample 2024
+Sabah|tenom,1.0,State poverty,0.2,In-sample 2024
+Sabah|tongod,1.0,State poverty,0.2,In-sample 2024
+Sabah|tuaran,1.0,State poverty,0.2,In-sample 2024
+Sarawak|asajaya,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|bau,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|belaga,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|beluru,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|betong,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|bintulu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|bukit mabong,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|dalat,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|daro,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|gedong,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|julau,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|kabong,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|kanowit,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|kapit,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|kuching,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|lawas,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|limbang,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|lingga,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|lubok antu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|lundu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|maradong,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|marudi,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|matu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|miri,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|mukah,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|pakan,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|pantu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|pusa,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|samarahan,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|saratok,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|sarikei,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|sebauh,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|sebuyau,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|selangau,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|serian,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|sibu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|siburan,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|simunjan,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|song,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|sri aman,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|subis,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|tanjung manis,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|tatau,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|tebedu,0.08791646031770071,State poverty,0.2,In-sample 2024
+Sarawak|telang usan,0.08791646031770071,State poverty,0.2,In-sample 2024
+Kedah|baling,1.0,State poverty,0.3,In-sample 2024
+Kedah|bandar baharu,1.0,State poverty,0.3,In-sample 2024
+Kedah|kota setar,1.0,State poverty,0.3,In-sample 2024
+Kedah|kuala muda,1.0,State poverty,0.3,In-sample 2024
+Kedah|kubang pasu,1.0,State poverty,0.3,In-sample 2024
+Kedah|kulim,1.0,State poverty,0.3,In-sample 2024
+Kedah|langkawi,1.0,State poverty,0.3,In-sample 2024
+Kedah|padang terap,1.0,State poverty,0.3,In-sample 2024
+Kedah|pendang,1.0,State poverty,0.3,In-sample 2024
+Kedah|pokok sena,1.0,State poverty,0.3,In-sample 2024
+Kedah|sik,1.0,State poverty,0.3,In-sample 2024
+Kedah|yan,1.0,State poverty,0.3,In-sample 2024
+Kelantan|bachok,1.0,State poverty,0.3,In-sample 2024
+Kelantan|gua musang,1.0,State poverty,0.3,In-sample 2024
+Kelantan|jeli,1.0,State poverty,0.3,In-sample 2024
+Kelantan|kecil lojing,1.0,State poverty,0.3,In-sample 2024
+Kelantan|kota bharu,1.0,State poverty,0.3,In-sample 2024
+Kelantan|kuala krai,1.0,State poverty,0.3,In-sample 2024
+Kelantan|machang,1.0,State poverty,0.3,In-sample 2024
+Kelantan|pasir mas,1.0,State poverty,0.3,In-sample 2024
+Kelantan|pasir puteh,1.0,State poverty,0.3,In-sample 2024
+Kelantan|tanah merah,1.0,State poverty,0.3,In-sample 2024
+Kelantan|tumpat,1.0,State poverty,0.3,In-sample 2024
+Perak|bagan datuk,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|batang padang,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|hilir perak,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|kampar,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|kerian,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|kinta,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|kuala kangsar,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|larut dan matang,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|manjung,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|muallim,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|perak tengah,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|selama,0.43569617015028916,State poverty,0.3,In-sample 2024
+Perak|ulu perak,0.43569617015028916,State poverty,0.3,In-sample 2024
+Sabah|beaufort,1.0,State poverty,0.3,In-sample 2024
+Sabah|beluran,1.0,State poverty,0.3,In-sample 2024
+Sabah|kalabakan,1.0,State poverty,0.3,In-sample 2024
+Sabah|keningau,1.0,State poverty,0.3,In-sample 2024
+Sabah|kinabatangan,1.0,State poverty,0.3,In-sample 2024
+Sabah|kota belud,1.0,State poverty,0.3,In-sample 2024
+Sabah|kota kinabalu,1.0,State poverty,0.3,In-sample 2024
+Sabah|kota marudu,1.0,State poverty,0.3,In-sample 2024
+Sabah|kuala penyu,1.0,State poverty,0.3,In-sample 2024
+Sabah|kudat,1.0,State poverty,0.3,In-sample 2024
+Sabah|kunak,1.0,State poverty,0.3,In-sample 2024
+Sabah|lahad datu,1.0,State poverty,0.3,In-sample 2024
+Sabah|membakut,1.0,State poverty,0.3,In-sample 2024
+Sabah|nabawan,1.0,State poverty,0.3,In-sample 2024
+Sabah|papar,1.0,State poverty,0.3,In-sample 2024
+Sabah|penampang,1.0,State poverty,0.3,In-sample 2024
+Sabah|pitas,1.0,State poverty,0.3,In-sample 2024
+Sabah|putatan,1.0,State poverty,0.3,In-sample 2024
+Sabah|ranau,1.0,State poverty,0.3,In-sample 2024
+Sabah|sandakan,1.0,State poverty,0.3,In-sample 2024
+Sabah|semporna,1.0,State poverty,0.3,In-sample 2024
+Sabah|sipitang,1.0,State poverty,0.3,In-sample 2024
+Sabah|tambunan,1.0,State poverty,0.3,In-sample 2024
+Sabah|tawau,1.0,State poverty,0.3,In-sample 2024
+Sabah|telupid,1.0,State poverty,0.3,In-sample 2024
+Sabah|tenom,1.0,State poverty,0.3,In-sample 2024
+Sabah|tongod,1.0,State poverty,0.3,In-sample 2024
+Sabah|tuaran,1.0,State poverty,0.3,In-sample 2024
+Sarawak|asajaya,1.0,State poverty,0.3,In-sample 2024
+Sarawak|bau,1.0,State poverty,0.3,In-sample 2024
+Sarawak|belaga,1.0,State poverty,0.3,In-sample 2024
+Sarawak|beluru,1.0,State poverty,0.3,In-sample 2024
+Sarawak|betong,1.0,State poverty,0.3,In-sample 2024
+Sarawak|bintulu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|bukit mabong,1.0,State poverty,0.3,In-sample 2024
+Sarawak|dalat,1.0,State poverty,0.3,In-sample 2024
+Sarawak|daro,1.0,State poverty,0.3,In-sample 2024
+Sarawak|gedong,1.0,State poverty,0.3,In-sample 2024
+Sarawak|julau,1.0,State poverty,0.3,In-sample 2024
+Sarawak|kabong,1.0,State poverty,0.3,In-sample 2024
+Sarawak|kanowit,1.0,State poverty,0.3,In-sample 2024
+Sarawak|kapit,1.0,State poverty,0.3,In-sample 2024
+Sarawak|kuching,1.0,State poverty,0.3,In-sample 2024
+Sarawak|lawas,1.0,State poverty,0.3,In-sample 2024
+Sarawak|limbang,1.0,State poverty,0.3,In-sample 2024
+Sarawak|lingga,1.0,State poverty,0.3,In-sample 2024
+Sarawak|lubok antu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|lundu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|maradong,1.0,State poverty,0.3,In-sample 2024
+Sarawak|marudi,1.0,State poverty,0.3,In-sample 2024
+Sarawak|matu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|miri,1.0,State poverty,0.3,In-sample 2024
+Sarawak|mukah,1.0,State poverty,0.3,In-sample 2024
+Sarawak|pakan,1.0,State poverty,0.3,In-sample 2024
+Sarawak|pantu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|pusa,1.0,State poverty,0.3,In-sample 2024
+Sarawak|samarahan,1.0,State poverty,0.3,In-sample 2024
+Sarawak|saratok,1.0,State poverty,0.3,In-sample 2024
+Sarawak|sarikei,1.0,State poverty,0.3,In-sample 2024
+Sarawak|sebauh,1.0,State poverty,0.3,In-sample 2024
+Sarawak|sebuyau,1.0,State poverty,0.3,In-sample 2024
+Sarawak|selangau,1.0,State poverty,0.3,In-sample 2024
+Sarawak|serian,1.0,State poverty,0.3,In-sample 2024
+Sarawak|sibu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|siburan,1.0,State poverty,0.3,In-sample 2024
+Sarawak|simunjan,1.0,State poverty,0.3,In-sample 2024
+Sarawak|song,1.0,State poverty,0.3,In-sample 2024
+Sarawak|sri aman,1.0,State poverty,0.3,In-sample 2024
+Sarawak|subis,1.0,State poverty,0.3,In-sample 2024
+Sarawak|tanjung manis,1.0,State poverty,0.3,In-sample 2024
+Sarawak|tatau,1.0,State poverty,0.3,In-sample 2024
+Sarawak|tebedu,1.0,State poverty,0.3,In-sample 2024
+Sarawak|telang usan,1.0,State poverty,0.3,In-sample 2024
+Kelantan|bachok,1.0,KPX,0.1,In-sample 2024
+Kelantan|gua musang,1.0,KPX,0.1,In-sample 2024
+Kelantan|jeli,1.0,KPX,0.1,In-sample 2024
+Kelantan|kecil lojing,1.0,KPX,0.1,In-sample 2024
+Kelantan|kuala krai,1.0,KPX,0.1,In-sample 2024
+Kelantan|machang,1.0,KPX,0.1,In-sample 2024
+Kelantan|pasir mas,1.0,KPX,0.1,In-sample 2024
+Kelantan|tanah merah,1.0,KPX,0.1,In-sample 2024
+Kelantan|tumpat,1.0,KPX,0.1,In-sample 2024
+Perak|bagan datuk,1.0,KPX,0.1,In-sample 2024
+Perak|batang padang,1.0,KPX,0.1,In-sample 2024
+Perak|hilir perak,1.0,KPX,0.1,In-sample 2024
+Perak|selama,1.0,KPX,0.1,In-sample 2024
+Perak|ulu perak,1.0,KPX,0.1,In-sample 2024
+Sabah|beaufort,1.0,KPX,0.1,In-sample 2024
+Sabah|beluran,1.0,KPX,0.1,In-sample 2024
+Sabah|kalabakan,1.0,KPX,0.1,In-sample 2024
+Sabah|keningau,1.0,KPX,0.1,In-sample 2024
+Sabah|kinabatangan,1.0,KPX,0.1,In-sample 2024
+Sabah|kota belud,1.0,KPX,0.1,In-sample 2024
+Sabah|kota marudu,1.0,KPX,0.1,In-sample 2024
+Sabah|kuala penyu,1.0,KPX,0.1,In-sample 2024
+Sabah|kudat,1.0,KPX,0.1,In-sample 2024
+Sabah|kunak,1.0,KPX,0.1,In-sample 2024
+Sabah|membakut,1.0,KPX,0.1,In-sample 2024
+Sabah|nabawan,1.0,KPX,0.1,In-sample 2024
+Sabah|pitas,1.0,KPX,0.1,In-sample 2024
+Sabah|ranau,1.0,KPX,0.1,In-sample 2024
+Sabah|semporna,1.0,KPX,0.1,In-sample 2024
+Sabah|sipitang,1.0,KPX,0.1,In-sample 2024
+Sabah|tambunan,1.0,KPX,0.1,In-sample 2024
+Sabah|tawau,0.8688399085233187,KPX,0.1,In-sample 2024
+Sabah|telupid,1.0,KPX,0.1,In-sample 2024
+Sabah|tenom,1.0,KPX,0.1,In-sample 2024
+Sabah|tongod,1.0,KPX,0.1,In-sample 2024
+Sabah|tuaran,1.0,KPX,0.1,In-sample 2024
+Sarawak|belaga,1.0,KPX,0.1,In-sample 2024
+Sarawak|bukit mabong,1.0,KPX,0.1,In-sample 2024
+Sarawak|daro,1.0,KPX,0.1,In-sample 2024
+Sarawak|gedong,1.0,KPX,0.1,In-sample 2024
+Sarawak|julau,1.0,KPX,0.1,In-sample 2024
+Sarawak|kanowit,1.0,KPX,0.1,In-sample 2024
+Sarawak|kapit,1.0,KPX,0.1,In-sample 2024
+Sarawak|lawas,1.0,KPX,0.1,In-sample 2024
+Sarawak|maradong,1.0,KPX,0.1,In-sample 2024
+Sarawak|pantu,1.0,KPX,0.1,In-sample 2024
+Sarawak|pusa,1.0,KPX,0.1,In-sample 2024
+Sarawak|sebuyau,1.0,KPX,0.1,In-sample 2024
+Sarawak|selangau,1.0,KPX,0.1,In-sample 2024
+Sarawak|serian,1.0,KPX,0.1,In-sample 2024
+Sarawak|simunjan,1.0,KPX,0.1,In-sample 2024
+Sarawak|song,1.0,KPX,0.1,In-sample 2024
+Sarawak|tanjung manis,1.0,KPX,0.1,In-sample 2024
+Sarawak|tebedu,1.0,KPX,0.1,In-sample 2024
+Kedah|baling,1.0,KPX,0.2,In-sample 2024
+Kelantan|bachok,1.0,KPX,0.2,In-sample 2024
+Kelantan|gua musang,1.0,KPX,0.2,In-sample 2024
+Kelantan|jeli,1.0,KPX,0.2,In-sample 2024
+Kelantan|kecil lojing,1.0,KPX,0.2,In-sample 2024
+Kelantan|kota bharu,1.0,KPX,0.2,In-sample 2024
+Kelantan|kuala krai,1.0,KPX,0.2,In-sample 2024
+Kelantan|machang,1.0,KPX,0.2,In-sample 2024
+Kelantan|pasir mas,1.0,KPX,0.2,In-sample 2024
+Kelantan|pasir puteh,1.0,KPX,0.2,In-sample 2024
+Kelantan|tanah merah,1.0,KPX,0.2,In-sample 2024
+Kelantan|tumpat,1.0,KPX,0.2,In-sample 2024
+Negeri Sembilan|jelebu,1.0,KPX,0.2,In-sample 2024
+Negeri Sembilan|jempol,1.0,KPX,0.2,In-sample 2024
+Negeri Sembilan|kuala pilah,1.0,KPX,0.2,In-sample 2024
+Pahang|bera,1.0,KPX,0.2,In-sample 2024
+Pahang|jerantut,1.0,KPX,0.2,In-sample 2024
+Pahang|lipis,1.0,KPX,0.2,In-sample 2024
+Perak|bagan datuk,1.0,KPX,0.2,In-sample 2024
+Perak|batang padang,1.0,KPX,0.2,In-sample 2024
+Perak|hilir perak,1.0,KPX,0.2,In-sample 2024
+Perak|kampar,1.0,KPX,0.2,In-sample 2024
+Perak|kuala kangsar,1.0,KPX,0.2,In-sample 2024
+Perak|selama,1.0,KPX,0.2,In-sample 2024
+Perak|ulu perak,1.0,KPX,0.2,In-sample 2024
+Sabah|beaufort,1.0,KPX,0.2,In-sample 2024
+Sabah|beluran,1.0,KPX,0.2,In-sample 2024
+Sabah|kalabakan,1.0,KPX,0.2,In-sample 2024
+Sabah|keningau,1.0,KPX,0.2,In-sample 2024
+Sabah|kinabatangan,1.0,KPX,0.2,In-sample 2024
+Sabah|kota belud,1.0,KPX,0.2,In-sample 2024
+Sabah|kota kinabalu,1.0,KPX,0.2,In-sample 2024
+Sabah|kota marudu,1.0,KPX,0.2,In-sample 2024
+Sabah|kuala penyu,1.0,KPX,0.2,In-sample 2024
+Sabah|kudat,1.0,KPX,0.2,In-sample 2024
+Sabah|kunak,1.0,KPX,0.2,In-sample 2024
+Sabah|lahad datu,1.0,KPX,0.2,In-sample 2024
+Sabah|membakut,1.0,KPX,0.2,In-sample 2024
+Sabah|nabawan,1.0,KPX,0.2,In-sample 2024
+Sabah|papar,1.0,KPX,0.2,In-sample 2024
+Sabah|pitas,1.0,KPX,0.2,In-sample 2024
+Sabah|ranau,1.0,KPX,0.2,In-sample 2024
+Sabah|sandakan,1.0,KPX,0.2,In-sample 2024
+Sabah|semporna,1.0,KPX,0.2,In-sample 2024
+Sabah|sipitang,1.0,KPX,0.2,In-sample 2024
+Sabah|tambunan,1.0,KPX,0.2,In-sample 2024
+Sabah|tawau,1.0,KPX,0.2,In-sample 2024
+Sabah|telupid,1.0,KPX,0.2,In-sample 2024
+Sabah|tenom,1.0,KPX,0.2,In-sample 2024
+Sabah|tongod,1.0,KPX,0.2,In-sample 2024
+Sabah|tuaran,1.0,KPX,0.2,In-sample 2024
+Sarawak|belaga,1.0,KPX,0.2,In-sample 2024
+Sarawak|bukit mabong,1.0,KPX,0.2,In-sample 2024
+Sarawak|daro,1.0,KPX,0.2,In-sample 2024
+Sarawak|gedong,1.0,KPX,0.2,In-sample 2024
+Sarawak|julau,1.0,KPX,0.2,In-sample 2024
+Sarawak|kabong,1.0,KPX,0.2,In-sample 2024
+Sarawak|kanowit,1.0,KPX,0.2,In-sample 2024
+Sarawak|kapit,1.0,KPX,0.2,In-sample 2024
+Sarawak|lawas,1.0,KPX,0.2,In-sample 2024
+Sarawak|limbang,1.0,KPX,0.2,In-sample 2024
+Sarawak|lingga,1.0,KPX,0.2,In-sample 2024
+Sarawak|lubok antu,1.0,KPX,0.2,In-sample 2024
+Sarawak|lundu,1.0,KPX,0.2,In-sample 2024
+Sarawak|maradong,1.0,KPX,0.2,In-sample 2024
+Sarawak|marudi,1.0,KPX,0.2,In-sample 2024
+Sarawak|matu,1.0,KPX,0.2,In-sample 2024
+Sarawak|pakan,1.0,KPX,0.2,In-sample 2024
+Sarawak|pantu,1.0,KPX,0.2,In-sample 2024
+Sarawak|pusa,1.0,KPX,0.2,In-sample 2024
+Sarawak|saratok,1.0,KPX,0.2,In-sample 2024
+Sarawak|sarikei,1.0,KPX,0.2,In-sample 2024
+Sarawak|sebuyau,1.0,KPX,0.2,In-sample 2024
+Sarawak|selangau,1.0,KPX,0.2,In-sample 2024
+Sarawak|serian,1.0,KPX,0.2,In-sample 2024
+Sarawak|simunjan,1.0,KPX,0.2,In-sample 2024
+Sarawak|song,1.0,KPX,0.2,In-sample 2024
+Sarawak|tanjung manis,1.0,KPX,0.2,In-sample 2024
+Sarawak|tatau,1.0,KPX,0.2,In-sample 2024
+Sarawak|tebedu,1.0,KPX,0.2,In-sample 2024
+Sarawak|telang usan,1.0,KPX,0.2,In-sample 2024
+Terengganu|besut,1.0,KPX,0.2,In-sample 2024
+Terengganu|ulu terengganu,1.0,KPX,0.2,In-sample 2024
+Perlis|perlis,0.35167859461295603,KPX,0.2,In-sample 2024
+Johor|mersing,1.0,KPX,0.3,In-sample 2024
+Kedah|baling,1.0,KPX,0.3,In-sample 2024
+Kedah|kota setar,1.0,KPX,0.3,In-sample 2024
+Kedah|kuala muda,1.0,KPX,0.3,In-sample 2024
+Kedah|padang terap,1.0,KPX,0.3,In-sample 2024
+Kedah|pendang,1.0,KPX,0.3,In-sample 2024
+Kedah|sik,1.0,KPX,0.3,In-sample 2024
+Kedah|yan,1.0,KPX,0.3,In-sample 2024
+Kelantan|bachok,1.0,KPX,0.3,In-sample 2024
+Kelantan|gua musang,1.0,KPX,0.3,In-sample 2024
+Kelantan|jeli,1.0,KPX,0.3,In-sample 2024
+Kelantan|kecil lojing,1.0,KPX,0.3,In-sample 2024
+Kelantan|kota bharu,1.0,KPX,0.3,In-sample 2024
+Kelantan|kuala krai,1.0,KPX,0.3,In-sample 2024
+Kelantan|machang,1.0,KPX,0.3,In-sample 2024
+Kelantan|pasir mas,1.0,KPX,0.3,In-sample 2024
+Kelantan|pasir puteh,1.0,KPX,0.3,In-sample 2024
+Kelantan|tanah merah,1.0,KPX,0.3,In-sample 2024
+Kelantan|tumpat,1.0,KPX,0.3,In-sample 2024
+Negeri Sembilan|jelebu,1.0,KPX,0.3,In-sample 2024
+Negeri Sembilan|jempol,1.0,KPX,0.3,In-sample 2024
+Negeri Sembilan|kuala pilah,1.0,KPX,0.3,In-sample 2024
+Negeri Sembilan|tampin,1.0,KPX,0.3,In-sample 2024
+Pahang|bera,1.0,KPX,0.3,In-sample 2024
+Pahang|jerantut,1.0,KPX,0.3,In-sample 2024
+Pahang|lipis,1.0,KPX,0.3,In-sample 2024
+Pahang|maran,1.0,KPX,0.3,In-sample 2024
+Pahang|pekan,1.0,KPX,0.3,In-sample 2024
+Pahang|raub,1.0,KPX,0.3,In-sample 2024
+Pahang|rompin,1.0,KPX,0.3,In-sample 2024
+Pahang|temerloh,1.0,KPX,0.3,In-sample 2024
+Perak|bagan datuk,1.0,KPX,0.3,In-sample 2024
+Perak|batang padang,1.0,KPX,0.3,In-sample 2024
+Perak|hilir perak,1.0,KPX,0.3,In-sample 2024
+Perak|kampar,1.0,KPX,0.3,In-sample 2024
+Perak|kerian,1.0,KPX,0.3,In-sample 2024
+Perak|kuala kangsar,1.0,KPX,0.3,In-sample 2024
+Perak|muallim,1.0,KPX,0.3,In-sample 2024
+Perak|perak tengah,1.0,KPX,0.3,In-sample 2024
+Perak|selama,1.0,KPX,0.3,In-sample 2024
+Perak|ulu perak,1.0,KPX,0.3,In-sample 2024
+Sabah|beaufort,1.0,KPX,0.3,In-sample 2024
+Sabah|beluran,1.0,KPX,0.3,In-sample 2024
+Sabah|kalabakan,1.0,KPX,0.3,In-sample 2024
+Sabah|keningau,1.0,KPX,0.3,In-sample 2024
+Sabah|kinabatangan,1.0,KPX,0.3,In-sample 2024
+Sabah|kota belud,1.0,KPX,0.3,In-sample 2024
+Sabah|kota kinabalu,1.0,KPX,0.3,In-sample 2024
+Sabah|kota marudu,1.0,KPX,0.3,In-sample 2024
+Sabah|kuala penyu,1.0,KPX,0.3,In-sample 2024
+Sabah|kudat,1.0,KPX,0.3,In-sample 2024
+Sabah|kunak,1.0,KPX,0.3,In-sample 2024
+Sabah|lahad datu,1.0,KPX,0.3,In-sample 2024
+Sabah|membakut,1.0,KPX,0.3,In-sample 2024
+Sabah|nabawan,1.0,KPX,0.3,In-sample 2024
+Sabah|papar,1.0,KPX,0.3,In-sample 2024
+Sabah|pitas,1.0,KPX,0.3,In-sample 2024
+Sabah|ranau,1.0,KPX,0.3,In-sample 2024
+Sabah|sandakan,1.0,KPX,0.3,In-sample 2024
+Sabah|semporna,1.0,KPX,0.3,In-sample 2024
+Sabah|sipitang,1.0,KPX,0.3,In-sample 2024
+Sabah|tambunan,1.0,KPX,0.3,In-sample 2024
+Sabah|tawau,1.0,KPX,0.3,In-sample 2024
+Sabah|telupid,1.0,KPX,0.3,In-sample 2024
+Sabah|tenom,1.0,KPX,0.3,In-sample 2024
+Sabah|tongod,1.0,KPX,0.3,In-sample 2024
+Sabah|tuaran,1.0,KPX,0.3,In-sample 2024
+Sarawak|asajaya,1.0,KPX,0.3,In-sample 2024
+Sarawak|belaga,1.0,KPX,0.3,In-sample 2024
+Sarawak|beluru,1.0,KPX,0.3,In-sample 2024
+Sarawak|betong,1.0,KPX,0.3,In-sample 2024
+Sarawak|bukit mabong,1.0,KPX,0.3,In-sample 2024
+Sarawak|dalat,1.0,KPX,0.3,In-sample 2024
+Sarawak|daro,1.0,KPX,0.3,In-sample 2024
+Sarawak|gedong,1.0,KPX,0.3,In-sample 2024
+Sarawak|julau,1.0,KPX,0.3,In-sample 2024
+Sarawak|kabong,1.0,KPX,0.3,In-sample 2024
+Sarawak|kanowit,1.0,KPX,0.3,In-sample 2024
+Sarawak|kapit,1.0,KPX,0.3,In-sample 2024
+Sarawak|lawas,1.0,KPX,0.3,In-sample 2024
+Sarawak|limbang,1.0,KPX,0.3,In-sample 2024
+Sarawak|lingga,1.0,KPX,0.3,In-sample 2024
+Sarawak|lubok antu,1.0,KPX,0.3,In-sample 2024
+Sarawak|lundu,1.0,KPX,0.3,In-sample 2024
+Sarawak|maradong,1.0,KPX,0.3,In-sample 2024
+Sarawak|marudi,1.0,KPX,0.3,In-sample 2024
+Sarawak|matu,1.0,KPX,0.3,In-sample 2024
+Sarawak|pakan,1.0,KPX,0.3,In-sample 2024
+Sarawak|pantu,1.0,KPX,0.3,In-sample 2024
+Sarawak|pusa,1.0,KPX,0.3,In-sample 2024
+Sarawak|saratok,1.0,KPX,0.3,In-sample 2024
+Sarawak|sarikei,1.0,KPX,0.3,In-sample 2024
+Sarawak|sebauh,1.0,KPX,0.3,In-sample 2024
+Sarawak|sebuyau,1.0,KPX,0.3,In-sample 2024
+Sarawak|selangau,1.0,KPX,0.3,In-sample 2024
+Sarawak|serian,1.0,KPX,0.3,In-sample 2024
+Sarawak|sibu,1.0,KPX,0.3,In-sample 2024
+Sarawak|simunjan,1.0,KPX,0.3,In-sample 2024
+Sarawak|song,1.0,KPX,0.3,In-sample 2024
+Sarawak|tanjung manis,1.0,KPX,0.3,In-sample 2024
+Sarawak|tatau,1.0,KPX,0.3,In-sample 2024
+Sarawak|tebedu,1.0,KPX,0.3,In-sample 2024
+Sarawak|telang usan,1.0,KPX,0.3,In-sample 2024
+Terengganu|besut,1.0,KPX,0.3,In-sample 2024
+Terengganu|kuala terengganu,0.7771603894130885,KPX,0.3,In-sample 2024
+Terengganu|marang,1.0,KPX,0.3,In-sample 2024
+Terengganu|ulu terengganu,1.0,KPX,0.3,In-sample 2024
+W.P. Labuan|w.p. labuan,1.0,KPX,0.3,In-sample 2024
+Perlis|perlis,1.0,KPX,0.3,In-sample 2024
+Kedah|baling,0.34875699745066335,District poverty,0.1,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,District poverty,0.1,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,District poverty,0.1,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,District poverty,0.1,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,District poverty,0.1,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,District poverty,0.1,Backtest 2022 to 2024
+Perak|hilir perak,1.0,District poverty,0.1,Backtest 2022 to 2024
+Perak|ulu perak,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|beaufort,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|beluran,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|keningau,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kota belud,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kudat,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|kunak,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|membakut,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|nabawan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|papar,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|pitas,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|ranau,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|sandakan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|semporna,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|sipitang,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|tawau,0.34875699745066335,District poverty,0.1,Backtest 2022 to 2024
+Sabah|telupid,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|tenom,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|tongod,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sabah|tuaran,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|belaga,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|daro,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|gedong,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|julau,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|kapit,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|lawas,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|limbang,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|maradong,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|matu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|pakan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|pusa,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|selangau,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|serian,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|siburan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|song,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,District poverty,0.1,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,District poverty,0.1,Backtest 2022 to 2024
+Johor|mersing,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kedah|baling,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kedah|kulim,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|bachok,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|jeli,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|machang,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,District poverty,0.2,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,District poverty,0.2,Backtest 2022 to 2024
+Pahang|pekan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Pahang|rompin,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|batang padang,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|hilir perak,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|perak tengah,1.0,District poverty,0.2,Backtest 2022 to 2024
+Perak|ulu perak,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|beaufort,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|beluran,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|keningau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kota belud,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kota kinabalu,0.22344013784536398,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kudat,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|kunak,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|membakut,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|nabawan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|papar,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|pitas,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|putatan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|ranau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|sandakan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|semporna,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|sipitang,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|tawau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|telupid,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|tenom,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|tongod,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sabah|tuaran,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|belaga,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|beluru,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|dalat,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|daro,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|gedong,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|julau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|kapit,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|lawas,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|limbang,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|lundu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|maradong,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|marudi,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|matu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|mukah,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|pakan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|pusa,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|selangau,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|serian,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|siburan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|song,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,District poverty,0.2,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Terengganu|besut,1.0,District poverty,0.2,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,District poverty,0.2,Backtest 2022 to 2024
+Johor|mersing,1.0,District poverty,0.3,Backtest 2022 to 2024
+Johor|segamat,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kedah|baling,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kedah|kulim,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kedah|padang terap,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kedah|pendang,0.39220864267375294,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|bachok,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|jeli,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|machang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,District poverty,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jelebu,0.39220864267375294,District poverty,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jempol,1.0,District poverty,0.3,Backtest 2022 to 2024
+Negeri Sembilan|tampin,0.39220864267375294,District poverty,0.3,Backtest 2022 to 2024
+Pahang|bera,1.0,District poverty,0.3,Backtest 2022 to 2024
+Pahang|jerantut,1.0,District poverty,0.3,Backtest 2022 to 2024
+Pahang|lipis,1.0,District poverty,0.3,Backtest 2022 to 2024
+Pahang|maran,1.0,District poverty,0.3,Backtest 2022 to 2024
+Pahang|pekan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Pahang|rompin,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|batang padang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|hilir perak,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|kerian,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|larut dan matang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|muallim,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|perak tengah,1.0,District poverty,0.3,Backtest 2022 to 2024
+Perak|ulu perak,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|beaufort,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|beluran,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|keningau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kota belud,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kota kinabalu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kudat,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|kunak,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|membakut,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|nabawan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|papar,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|pitas,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|putatan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|ranau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|sandakan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|semporna,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|sipitang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|tambunan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|tawau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|telupid,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|tenom,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|tongod,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sabah|tuaran,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|bau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|belaga,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|beluru,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|betong,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|dalat,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|daro,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|gedong,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|julau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|kabong,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|kapit,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|kuching,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|lawas,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|limbang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|lingga,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|lundu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|maradong,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|marudi,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|matu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|mukah,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|pakan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|pantu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|pusa,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|samarahan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|saratok,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|selangau,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|serian,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|sibu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|siburan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|song,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|sri aman,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,District poverty,0.3,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Terengganu|besut,1.0,District poverty,0.3,Backtest 2022 to 2024
+Terengganu|marang,1.0,District poverty,0.3,Backtest 2022 to 2024
+Terengganu|setiu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,District poverty,0.3,Backtest 2022 to 2024
+Kelantan|bachok,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|gua musang,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|jeli,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|kecil lojing,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|kota bharu,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|kuala krai,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|machang,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|pasir mas,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|pasir puteh,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|tanah merah,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|tumpat,0.2685472743263865,State poverty,0.1,Backtest 2022 to 2024
+Sabah|beaufort,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|beluran,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|keningau,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kota belud,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kota kinabalu,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kudat,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|kunak,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|membakut,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|nabawan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|papar,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|penampang,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|pitas,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|putatan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|ranau,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|sandakan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|semporna,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|sipitang,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|tambunan,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|tawau,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|telupid,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|tenom,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|tongod,1.0,State poverty,0.1,Backtest 2022 to 2024
+Sabah|tuaran,1.0,State poverty,0.1,Backtest 2022 to 2024
+Kelantan|bachok,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|jeli,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|machang,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,State poverty,0.2,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|beaufort,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|beluran,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|keningau,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kota belud,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kota kinabalu,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kudat,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|kunak,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|membakut,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|nabawan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|papar,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|penampang,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|pitas,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|putatan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|ranau,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|sandakan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|semporna,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|sipitang,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|tambunan,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|tawau,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|telupid,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|tenom,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|tongod,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sabah|tuaran,1.0,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|asajaya,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|bau,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|belaga,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|beluru,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|betong,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|bintulu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|bukit mabong,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|dalat,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|daro,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|gedong,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|julau,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|kabong,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|kanowit,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|kapit,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|kuching,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|lawas,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|limbang,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|lingga,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|lubok antu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|lundu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|maradong,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|marudi,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|matu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|miri,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|mukah,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|pakan,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|pantu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|pusa,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|samarahan,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|saratok,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|sarikei,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|sebauh,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|sebuyau,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|selangau,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|serian,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|sibu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|siburan,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|simunjan,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|song,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|sri aman,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|subis,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|tanjung manis,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|tatau,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|tebedu,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Sarawak|telang usan,0.9501205070363414,State poverty,0.2,Backtest 2022 to 2024
+Kedah|baling,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|bandar baharu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|kota setar,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|kubang pasu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|kulim,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|langkawi,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|padang terap,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|pendang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|pokok sena,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|sik,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kedah|yan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|bachok,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|jeli,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|machang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,State poverty,0.3,Backtest 2022 to 2024
+Perak|bagan datuk,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|batang padang,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|hilir perak,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|kampar,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|kerian,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|kinta,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|kuala kangsar,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|larut dan matang,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|manjung,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|muallim,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|perak tengah,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|selama,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Perak|ulu perak,0.43569617015028983,State poverty,0.3,Backtest 2022 to 2024
+Sabah|beaufort,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|beluran,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|keningau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kota belud,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kota kinabalu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kudat,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|kunak,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|membakut,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|nabawan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|papar,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|penampang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|pitas,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|putatan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|ranau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|sandakan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|semporna,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|sipitang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|tambunan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|tawau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|telupid,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|tenom,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|tongod,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sabah|tuaran,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|bau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|belaga,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|beluru,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|betong,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|bintulu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|dalat,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|daro,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|gedong,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|julau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|kabong,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|kapit,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|kuching,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|lawas,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|limbang,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|lingga,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|lundu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|maradong,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|marudi,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|matu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|miri,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|mukah,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|pakan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|pantu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|pusa,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|samarahan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|saratok,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|sebauh,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|selangau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|serian,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|sibu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|siburan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|song,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|sri aman,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|subis,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|tatau,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,State poverty,0.3,Backtest 2022 to 2024
+Sarawak|telang usan,1.0,State poverty,0.3,Backtest 2022 to 2024
+Kelantan|bachok,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|jeli,0.56477722999434,KPX,0.1,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|machang,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,KPX,0.1,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,KPX,0.1,Backtest 2022 to 2024
+Pahang|lipis,1.0,KPX,0.1,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,KPX,0.1,Backtest 2022 to 2024
+Perak|batang padang,1.0,KPX,0.1,Backtest 2022 to 2024
+Perak|hilir perak,1.0,KPX,0.1,Backtest 2022 to 2024
+Perak|selama,1.0,KPX,0.1,Backtest 2022 to 2024
+Perak|ulu perak,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|beaufort,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|beluran,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|keningau,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kota belud,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kudat,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|kunak,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|membakut,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|nabawan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|pitas,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|ranau,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|semporna,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|sipitang,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|tambunan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|telupid,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|tenom,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|tongod,1.0,KPX,0.1,Backtest 2022 to 2024
+Sabah|tuaran,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|belaga,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|daro,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|gedong,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|julau,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|kapit,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|lawas,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|maradong,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|matu,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|pusa,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|selangau,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|serian,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|siburan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|song,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,KPX,0.1,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,KPX,0.1,Backtest 2022 to 2024
+Johor|mersing,1.0,KPX,0.2,Backtest 2022 to 2024
+Kedah|baling,1.0,KPX,0.2,Backtest 2022 to 2024
+Kedah|kuala muda,0.7874976634216988,KPX,0.2,Backtest 2022 to 2024
+Kelantan|bachok,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|jeli,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|machang,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,KPX,0.2,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,KPX,0.2,Backtest 2022 to 2024
+Negeri Sembilan|jelebu,1.0,KPX,0.2,Backtest 2022 to 2024
+Negeri Sembilan|kuala pilah,1.0,KPX,0.2,Backtest 2022 to 2024
+Pahang|bera,1.0,KPX,0.2,Backtest 2022 to 2024
+Pahang|lipis,1.0,KPX,0.2,Backtest 2022 to 2024
+Pahang|rompin,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|batang padang,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|hilir perak,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|selama,1.0,KPX,0.2,Backtest 2022 to 2024
+Perak|ulu perak,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|beaufort,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|beluran,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|keningau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kota belud,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kudat,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|kunak,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|membakut,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|nabawan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|papar,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|pitas,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|ranau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|sandakan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|semporna,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|sipitang,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|tambunan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|tawau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|telupid,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|tenom,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|tongod,1.0,KPX,0.2,Backtest 2022 to 2024
+Sabah|tuaran,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|belaga,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|dalat,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|daro,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|gedong,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|julau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|kabong,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|kapit,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|lawas,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|limbang,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|lundu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|maradong,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|marudi,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|matu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|pakan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|pusa,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|selangau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|serian,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|sibu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|siburan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|song,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|tatau,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,KPX,0.2,Backtest 2022 to 2024
+Sarawak|telang usan,1.0,KPX,0.2,Backtest 2022 to 2024
+Terengganu|besut,1.0,KPX,0.2,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,KPX,0.2,Backtest 2022 to 2024
+Johor|mersing,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|baling,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|kota setar,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|langkawi,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|padang terap,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|pendang,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|sik,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|yan,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|bachok,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|jeli,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|machang,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,KPX,0.3,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,KPX,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jelebu,1.0,KPX,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jempol,1.0,KPX,0.3,Backtest 2022 to 2024
+Negeri Sembilan|kuala pilah,1.0,KPX,0.3,Backtest 2022 to 2024
+Negeri Sembilan|port dickson,1.0,KPX,0.3,Backtest 2022 to 2024
+Negeri Sembilan|tampin,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|bera,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|jerantut,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|lipis,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|pekan,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|rompin,1.0,KPX,0.3,Backtest 2022 to 2024
+Pahang|temerloh,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|batang padang,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|hilir perak,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|kampar,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|kerian,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|larut dan matang,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|muallim,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|perak tengah,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|selama,1.0,KPX,0.3,Backtest 2022 to 2024
+Perak|ulu perak,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|beaufort,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|beluran,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|keningau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kota belud,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kota kinabalu,0.32469960590169833,KPX,0.3,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kudat,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|kunak,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|membakut,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|nabawan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|papar,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|pitas,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|putatan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|ranau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|sandakan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|semporna,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|sipitang,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|tambunan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|tawau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|telupid,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|tenom,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|tongod,1.0,KPX,0.3,Backtest 2022 to 2024
+Sabah|tuaran,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|bau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|belaga,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|beluru,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|betong,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|dalat,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|daro,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|gedong,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|julau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|kabong,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|kapit,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|lawas,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|limbang,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|lingga,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|lundu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|maradong,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|marudi,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|matu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|mukah,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|pakan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|pantu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|pusa,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|samarahan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|saratok,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|selangau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|serian,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|sibu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|siburan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|song,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|sri aman,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|tatau,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,KPX,0.3,Backtest 2022 to 2024
+Sarawak|telang usan,1.0,KPX,0.3,Backtest 2022 to 2024
+Terengganu|besut,1.0,KPX,0.3,Backtest 2022 to 2024
+Terengganu|kuala terengganu,1.0,KPX,0.3,Backtest 2022 to 2024
+Terengganu|marang,1.0,KPX,0.3,Backtest 2022 to 2024
+Terengganu|setiu,1.0,KPX,0.3,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,KPX,0.3,Backtest 2022 to 2024
+Kedah|baling,0.34875699745066063,Persistent first,0.1,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Perak|hilir perak,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Perak|ulu perak,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|beaufort,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|beluran,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|keningau,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kota belud,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kudat,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|kunak,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|membakut,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|nabawan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|papar,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|pitas,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|ranau,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|sandakan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|semporna,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|sipitang,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|tawau,0.34875699745066063,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|telupid,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|tenom,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|tongod,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sabah|tuaran,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|belaga,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|daro,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|gedong,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|julau,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|kapit,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|lawas,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|limbang,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|maradong,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|matu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|pakan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|pusa,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|selangau,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|serian,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|siburan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|song,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,Persistent first,0.1,Backtest 2022 to 2024
+Johor|mersing,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kedah|baling,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kedah|kulim,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|bachok,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|jeli,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|machang,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Pahang|pekan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Pahang|rompin,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|batang padang,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|hilir perak,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|perak tengah,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Perak|ulu perak,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|beaufort,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|beluran,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|keningau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kota belud,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kota kinabalu,0.22344013784536007,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kudat,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|kunak,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|membakut,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|nabawan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|papar,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|pitas,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|putatan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|ranau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|sandakan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|semporna,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|sipitang,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|tawau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|telupid,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|tenom,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|tongod,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sabah|tuaran,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|belaga,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|beluru,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|dalat,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|daro,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|gedong,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|julau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|kapit,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|lawas,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|limbang,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|lundu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|maradong,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|marudi,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|matu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|mukah,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|pakan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|pusa,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|selangau,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|serian,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|siburan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|song,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Terengganu|besut,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,Persistent first,0.2,Backtest 2022 to 2024
+Johor|mersing,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Johor|segamat,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kedah|baling,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kedah|kuala muda,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kedah|kulim,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kedah|padang terap,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kedah|pendang,0.39220864267375294,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|bachok,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|gua musang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|jeli,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|kecil lojing,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|kota bharu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|kuala krai,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|machang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|pasir mas,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|pasir puteh,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|tanah merah,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Kelantan|tumpat,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jelebu,0.39220864267375294,Persistent first,0.3,Backtest 2022 to 2024
+Negeri Sembilan|jempol,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Negeri Sembilan|tampin,0.39220864267375294,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|bera,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|jerantut,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|lipis,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|maran,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|pekan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Pahang|rompin,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|bagan datuk,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|batang padang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|hilir perak,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|kerian,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|kuala kangsar,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|larut dan matang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|muallim,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|perak tengah,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Perak|ulu perak,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|beaufort,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|beluran,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kalabakan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|keningau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kinabatangan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kota belud,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kota kinabalu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kota marudu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kuala penyu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kudat,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|kunak,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|lahad datu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|membakut,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|nabawan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|papar,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|pitas,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|putatan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|ranau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|sandakan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|semporna,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|sipitang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|tambunan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|tawau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|telupid,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|tenom,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|tongod,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sabah|tuaran,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|asajaya,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|bau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|belaga,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|beluru,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|betong,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|bukit mabong,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|dalat,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|daro,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|gedong,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|julau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|kabong,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|kanowit,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|kapit,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|kuching,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|lawas,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|limbang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|lingga,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|lubok antu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|lundu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|maradong,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|marudi,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|matu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|mukah,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|pakan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|pantu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|pusa,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|samarahan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|saratok,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|sarikei,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|sebuyau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|selangau,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|serian,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|sibu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|siburan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|simunjan,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|song,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|sri aman,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|tanjung manis,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Sarawak|tebedu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Terengganu|besut,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Terengganu|marang,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Terengganu|setiu,1.0,Persistent first,0.3,Backtest 2022 to 2024
+Terengganu|ulu terengganu,1.0,Persistent first,0.3,Backtest 2022 to 2024

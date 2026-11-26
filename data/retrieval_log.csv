@@ -1,10 +1,10 @@
 dataset,url,retrieved_utc,bytes,sha256
-hh_income_district,https://storage.dosm.gov.my/hies/hh_income_district.parquet,2026-11-25 (snapshot),8093,f43ee8dcf7ae13343483bb19abcdf63e4517126b2b149ea3456670ac75673104
-hh_poverty_district,https://storage.dosm.gov.my/hies/hh_poverty_district.parquet,2026-11-25 (snapshot),7217,9e9269ad507395eb2bb0be58855641b45ca106fb5ae2dab91fc258a598f42e4e
-hh_access_amenities,https://storage.dosm.gov.my/hies/hh_access_amenities.parquet,2026-11-25 (snapshot),8391,4294d69e5f7c5bdf56aaaa01ed336e14a1c5afd3020a22206d909a9b3fec2e32
-hies_state,https://storage.dosm.gov.my/hies/hies_state.parquet,2026-11-25 (snapshot),5406,df584daba7ace4d0739a5a6f6aadf47e83e055c8f2f2b19f38b12c9794e4a584
-hh_poverty_state,https://storage.dosm.gov.my/hies/hh_poverty_state.parquet,2026-11-25 (snapshot),5666,af3fd822ba0fcecce1a74c990e061ffcff35555605125f3b1e33338fe4e2d9c7
-lfs_district,https://storage.dosm.gov.my/labour/lfs_district.parquet,2026-11-25 (snapshot),23276,7a356c0c86280f6c53cfe636834bf23fa780be3b66fa6cc3f7cecfab74c0a895
-lfs_state_sex,https://storage.dosm.gov.my/labour/lfs_state_sex.parquet,2026-11-25 (snapshot),39916,86f5d3ae0bc78f070f9f93da19863e7ef3e327393b30916d02a29c4e71baf23d
-population_district,https://storage.dosm.gov.my/population/population_district.parquet,2026-11-25 (snapshot),264746,456bca234306c740c523753c62630d409c8713c82cd94b596074a7ca3a024742
-hh_lq_state,https://storage.dosm.gov.my/demography/hh_lq_state.parquet,2026-11-25 (snapshot),5816,b80297bb18e3eabe5d00c401c7f0e09af8edc3938f9d73dad00bb3b60a2af595
+hh_income_district,https://storage.dosm.gov.my/hies/hh_income_district.parquet,2026-11-25T15:19Z,8093,f43ee8dcf7ae13343483bb19abcdf63e4517126b2b149ea3456670ac75673104
+hh_poverty_district,https://storage.dosm.gov.my/hies/hh_poverty_district.parquet,2026-11-25T15:19Z,7217,9e9269ad507395eb2bb0be58855641b45ca106fb5ae2dab91fc258a598f42e4e
+hh_access_amenities,https://storage.dosm.gov.my/hies/hh_access_amenities.parquet,2026-11-25T15:19Z,8391,4294d69e5f7c5bdf56aaaa01ed336e14a1c5afd3020a22206d909a9b3fec2e32
+hies_state,https://storage.dosm.gov.my/hies/hies_state.parquet,2026-11-25T15:19Z,5406,df584daba7ace4d0739a5a6f6aadf47e83e055c8f2f2b19f38b12c9794e4a584
+hh_poverty_state,https://storage.dosm.gov.my/hies/hh_poverty_state.parquet,2026-11-25T15:19Z,5666,af3fd822ba0fcecce1a74c990e061ffcff35555605125f3b1e33338fe4e2d9c7
+lfs_district,https://storage.dosm.gov.my/labour/lfs_district.parquet,2026-11-25T15:19Z,23276,7a356c0c86280f6c53cfe636834bf23fa780be3b66fa6cc3f7cecfab74c0a895
+lfs_state_sex,https://storage.dosm.gov.my/labour/lfs_state_sex.parquet,2026-11-25T15:19Z,39916,86f5d3ae0bc78f070f9f93da19863e7ef3e327393b30916d02a29c4e71baf23d
+population_district,https://storage.dosm.gov.my/population/population_district.parquet,2026-11-25T15:19Z,264746,456bca234306c740c523753c62630d409c8713c82cd94b596074a7ca3a024742
+hh_lq_state,https://storage.dosm.gov.my/demography/hh_lq_state.parquet,2026-11-25T15:19Z,5816,b80297bb18e3eabe5d00c401c7f0e09af8edc3938f9d73dad00bb3b60a2af595

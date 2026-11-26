@@ -16,6 +16,6 @@ for name, folder in FILES.items():
     url = f"https://storage.dosm.gov.my/{folder}/{name}.parquet"
     data = urllib.request.urlopen(url, timeout=60).read()
     (out / f"{name}.parquet").write_bytes(data)
-    log.append(f"{name},{url},{dt.datetime.utcnow():%Y-%m-%dT%H:%MZ},{len(data)},{hashlib.sha256(data).hexdigest()}")
+    log.append(f"{name},{url},{dt.datetime.now(dt.timezone.utc):%Y-%m-%dT%H:%MZ},{len(data)},{hashlib.sha256(data).hexdigest()}")
     print("ok", name, len(data))
 (out / "retrieval_log.csv").write_text("\n".join(log) + "\n")

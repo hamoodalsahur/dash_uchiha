@@ -146,3 +146,32 @@ def test_combined_education_offices_are_flagged_not_hidden():
     assert len(shared) == 2
     assert (shared.match_note == "shared education office").all()
     assert shared.completion_upper_secondary.nunique() == 1
+
+
+# ---------- map layer (one row per map shape) ----------
+
+def _toy_map_inputs():
+    fmap = pd.DataFrame({"shape_key": ["S|a", "S|parent", "S|new"], "district_id": ["S|a", "S|parent", "S|new"],
+                         "value_year": [2024, 2022, 2024]})
+    mob = pd.DataFrame({
+        "district_id": ["S|a", "S|parent", "S|parent", "S|new"], "year": [2024, 2022, 2024, 2024],
+        "income_median": [3000, 5000, 6000, 7000], "near_m40_floor": [3820, 3440, 3820, 3820],
+        "m40_line": [5860, 5250, 5860, 5860], "share_below_m40": [0.8, 0.55, 0.45, 0.3],
+        "catch_up_status_1924": ["closing", np.nan, np.nan, np.nan], "boundary_changed": [False, True, True, True]})
+    return fmap, mob
+
+
+def test_map_layer_uses_the_year_each_shape_is_shaded_with():
+    layer = m.map_layer(*_toy_map_inputs()).set_index("shape_key")
+    # Parent shape shows its 2022 median against the 2022 lines (D8), not the 2024 row.
+    assert layer.loc["S|parent", "income_band_shown"] == "near M40 (B21-B40)"
+    assert layer.loc["S|parent", "share_below_m40_shown"] == 0.55
+
+
+def test_map_layer_bands_and_catch_up_labels():
+    layer = m.map_layer(*_toy_map_inputs()).set_index("shape_key")
+    assert layer.loc["S|a", "income_band_shown"] == "below near-M40 band"
+    assert layer.loc["S|new", "income_band_shown"] == "at or above M40 line"
+    assert layer.loc["S|a", "catch_up_shown"] == "closing"
+    assert layer.loc["S|new", "catch_up_shown"] == "boundary changed (not compared)"
+    assert len(layer) == 3

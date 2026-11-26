@@ -119,3 +119,9 @@ fact_state_wages.csv,state,"State, or Malaysia",text,DOSM formal_wages_state,ide
 fact_state_wages.csv,month,Reference month,date,DOSM formal_wages_state,identifier
 fact_state_wages.csv,wages_median,"Median monthly wage of formal-sector employees (EPF/SOCSO records). Individuals, not households; excludes informal and gig work",RM/month,DOSM formal_wages_state,observed
 fact_state_wages.csv,employees,Number of formal-sector employees,people,DOSM formal_wages_state,observed
+fact_map_mobility.csv,shape_key,Map shape key; joins fact_map[shape_key] one-to-one,text,pipeline,identifier
+fact_map_mobility.csv,value_year,"Year the shape is shaded with (2022 for split parents, per D8; else 2024)",year,pipeline,identifier
+fact_map_mobility.csv,income_median_shown,Median household income for that shape and year,RM/month,DOSM hh_income_district,observed
+fact_map_mobility.csv,income_band_shown,"Where the median sits: below near-M40 band / near M40 (B21-B40) / at or above M40 line, using that year's national lines",text,pipeline (kantung.mobility.map_layer),label
+fact_map_mobility.csv,share_below_m40_shown,Estimated share of households below that year's national M40 line,0-1,pipeline (kantung.mobility),estimated
+fact_map_mobility.csv,catch_up_shown,"closing / falling behind / about level (2019-24), or 'boundary changed (not compared)' / 'not compared'",text,pipeline (kantung.mobility.map_layer),label

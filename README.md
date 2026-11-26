@@ -14,7 +14,7 @@ District-level decision tool: where hardship concentrates, where it persists, an
 python -m venv .venv
 # Windows:  .venv\Scripts\activate      Mac/Linux:  source .venv/bin/activate
 pip install -r requirements.txt
-python -m pytest -q            # must say "77 passed"
+python -m pytest -q            # must say "79 passed"
 python export_powerbi.py       # rebuilds the poverty tables in powerbi_tables/
 python export_mobility.py      # rebuilds the B40 -> M40 tables (fact_mobility, fact_lines, ...)
 ```

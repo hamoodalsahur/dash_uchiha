@@ -1,0 +1,154 @@
+geography,level,year,line,value_rm,source
+Malaysia,national,2019,m40_entry,4850,DOSM published line
+Malaysia,national,2022,m40_entry,5250,DOSM published line
+Malaysia,national,2024,m40_entry,5860,DOSM published line
+Malaysia,national,2019,near_m40_floor,3170,min income of percentile 21
+Malaysia,national,2022,near_m40_floor,3440,min income of percentile 21
+Malaysia,national,2024,near_m40_floor,3820,DOSM published line
+Malaysia,national,2019,t20_entry,10960,min income of percentile 81
+Malaysia,national,2022,t20_entry,11819,min income of percentile 81
+Malaysia,national,2024,t20_entry,12680,DOSM published line
+Johor,state,2019,m40_entry,5400,min income of percentile 41
+Johor,state,2022,m40_entry,5737,min income of percentile 41
+Johor,state,2024,m40_entry,6569,min income of percentile 41
+Johor,state,2019,near_m40_floor,3677,min income of percentile 21
+Johor,state,2022,near_m40_floor,3845,min income of percentile 21
+Johor,state,2024,near_m40_floor,4569,min income of percentile 21
+Johor,state,2019,t20_entry,10880,min income of percentile 81
+Johor,state,2022,t20_entry,11926,min income of percentile 81
+Johor,state,2024,t20_entry,13567,min income of percentile 81
+Kedah,state,2019,m40_entry,3710,min income of percentile 41
+Kedah,state,2022,m40_entry,3754,min income of percentile 41
+Kedah,state,2024,m40_entry,3954,min income of percentile 41
+Kedah,state,2019,near_m40_floor,2686,min income of percentile 21
+Kedah,state,2022,near_m40_floor,2666,min income of percentile 21
+Kedah,state,2024,near_m40_floor,2890,min income of percentile 21
+Kedah,state,2019,t20_entry,7550,min income of percentile 81
+Kedah,state,2022,t20_entry,7430,min income of percentile 81
+Kedah,state,2024,t20_entry,7818,min income of percentile 81
+Kelantan,state,2019,m40_entry,3030,min income of percentile 41
+Kelantan,state,2022,m40_entry,3063,min income of percentile 41
+Kelantan,state,2024,m40_entry,3523,min income of percentile 41
+Kelantan,state,2019,near_m40_floor,2301,min income of percentile 21
+Kelantan,state,2022,near_m40_floor,2190,min income of percentile 21
+Kelantan,state,2024,near_m40_floor,2541,min income of percentile 21
+Kelantan,state,2019,t20_entry,6620,min income of percentile 81
+Kelantan,state,2022,t20_entry,6487,min income of percentile 81
+Kelantan,state,2024,t20_entry,7003,min income of percentile 81
+Melaka,state,2019,m40_entry,5110,min income of percentile 41
+Melaka,state,2022,m40_entry,5221,min income of percentile 41
+Melaka,state,2024,m40_entry,5919,min income of percentile 41
+Melaka,state,2019,near_m40_floor,3319,min income of percentile 21
+Melaka,state,2022,near_m40_floor,3693,min income of percentile 21
+Melaka,state,2024,near_m40_floor,4306,min income of percentile 21
+Melaka,state,2019,t20_entry,10730,min income of percentile 81
+Melaka,state,2022,t20_entry,11171,min income of percentile 81
+Melaka,state,2024,t20_entry,11564,min income of percentile 81
+Negeri Sembilan,state,2019,m40_entry,4210,min income of percentile 41
+Negeri Sembilan,state,2022,m40_entry,4336,min income of percentile 41
+Negeri Sembilan,state,2024,m40_entry,4693,min income of percentile 41
+Negeri Sembilan,state,2019,near_m40_floor,2801,min income of percentile 21
+Negeri Sembilan,state,2022,near_m40_floor,3135,min income of percentile 21
+Negeri Sembilan,state,2024,near_m40_floor,3316,min income of percentile 21
+Negeri Sembilan,state,2019,t20_entry,9300,min income of percentile 81
+Negeri Sembilan,state,2022,t20_entry,9518,min income of percentile 81
+Negeri Sembilan,state,2024,t20_entry,9981,min income of percentile 81
+Pahang,state,2019,m40_entry,3900,min income of percentile 41
+Pahang,state,2022,m40_entry,4166,min income of percentile 41
+Pahang,state,2024,m40_entry,4329,min income of percentile 41
+Pahang,state,2019,near_m40_floor,3018,min income of percentile 21
+Pahang,state,2022,near_m40_floor,3221,min income of percentile 21
+Pahang,state,2024,near_m40_floor,3259,min income of percentile 21
+Pahang,state,2019,t20_entry,7600,min income of percentile 81
+Pahang,state,2022,t20_entry,7808,min income of percentile 81
+Pahang,state,2024,t20_entry,8095,min income of percentile 81
+Perak,state,2019,m40_entry,3660,min income of percentile 41
+Perak,state,2022,m40_entry,3790,min income of percentile 41
+Perak,state,2024,m40_entry,3967,min income of percentile 41
+Perak,state,2019,near_m40_floor,2616,min income of percentile 21
+Perak,state,2022,near_m40_floor,2675,min income of percentile 21
+Perak,state,2024,near_m40_floor,2890,min income of percentile 21
+Perak,state,2019,t20_entry,7640,min income of percentile 81
+Perak,state,2022,t20_entry,7922,min income of percentile 81
+Perak,state,2024,t20_entry,8233,min income of percentile 81
+Perlis,state,2019,m40_entry,3870,min income of percentile 41
+Perlis,state,2022,m40_entry,4094,min income of percentile 41
+Perlis,state,2024,m40_entry,4283,min income of percentile 41
+Perlis,state,2019,near_m40_floor,2665,min income of percentile 21
+Perlis,state,2022,near_m40_floor,2831,min income of percentile 21
+Perlis,state,2024,near_m40_floor,3026,min income of percentile 21
+Perlis,state,2019,t20_entry,7930,min income of percentile 81
+Perlis,state,2022,t20_entry,7794,min income of percentile 81
+Perlis,state,2024,t20_entry,8012,min income of percentile 81
+Pulau Pinang,state,2019,m40_entry,5310,min income of percentile 41
+Pulau Pinang,state,2022,m40_entry,5583,min income of percentile 41
+Pulau Pinang,state,2024,m40_entry,6370,min income of percentile 41
+Pulau Pinang,state,2019,near_m40_floor,3633,min income of percentile 21
+Pulau Pinang,state,2022,near_m40_floor,3680,min income of percentile 21
+Pulau Pinang,state,2024,near_m40_floor,4234,min income of percentile 21
+Pulau Pinang,state,2019,t20_entry,10680,min income of percentile 81
+Pulau Pinang,state,2022,t20_entry,11495,min income of percentile 81
+Pulau Pinang,state,2024,t20_entry,12676,min income of percentile 81
+Sabah,state,2019,m40_entry,3490,min income of percentile 41
+Sabah,state,2022,m40_entry,3837,min income of percentile 41
+Sabah,state,2024,m40_entry,4125,min income of percentile 41
+Sabah,state,2019,near_m40_floor,2444,min income of percentile 21
+Sabah,state,2022,near_m40_floor,2615,min income of percentile 21
+Sabah,state,2024,near_m40_floor,2788,min income of percentile 21
+Sabah,state,2019,t20_entry,8200,min income of percentile 81
+Sabah,state,2022,t20_entry,8536,min income of percentile 81
+Sabah,state,2024,t20_entry,9166,min income of percentile 81
+Sarawak,state,2019,m40_entry,3720,min income of percentile 41
+Sarawak,state,2022,m40_entry,4157,min income of percentile 41
+Sarawak,state,2024,m40_entry,4670,min income of percentile 41
+Sarawak,state,2019,near_m40_floor,2541,min income of percentile 21
+Sarawak,state,2022,near_m40_floor,2749,min income of percentile 21
+Sarawak,state,2024,near_m40_floor,3169,min income of percentile 21
+Sarawak,state,2019,t20_entry,8650,min income of percentile 81
+Sarawak,state,2022,t20_entry,9210,min income of percentile 81
+Sarawak,state,2024,t20_entry,9711,min income of percentile 81
+Selangor,state,2019,m40_entry,6960,min income of percentile 41
+Selangor,state,2022,m40_entry,8393,min income of percentile 41
+Selangor,state,2024,m40_entry,9573,min income of percentile 41
+Selangor,state,2019,near_m40_floor,4658,min income of percentile 21
+Selangor,state,2022,near_m40_floor,5709,min income of percentile 21
+Selangor,state,2024,near_m40_floor,7380,min income of percentile 21
+Selangor,state,2019,t20_entry,14440,min income of percentile 81
+Selangor,state,2022,t20_entry,15735,min income of percentile 81
+Selangor,state,2024,t20_entry,16051,min income of percentile 81
+Terengganu,state,2019,m40_entry,4720,min income of percentile 41
+Terengganu,state,2022,m40_entry,5153,min income of percentile 41
+Terengganu,state,2024,m40_entry,5887,min income of percentile 41
+Terengganu,state,2019,near_m40_floor,3373,min income of percentile 21
+Terengganu,state,2022,near_m40_floor,3834,min income of percentile 21
+Terengganu,state,2024,near_m40_floor,4134,min income of percentile 21
+Terengganu,state,2019,t20_entry,9260,min income of percentile 81
+Terengganu,state,2022,t20_entry,9231,min income of percentile 81
+Terengganu,state,2024,t20_entry,9793,min income of percentile 81
+W.P. Kuala Lumpur,state,2019,m40_entry,9150,min income of percentile 41
+W.P. Kuala Lumpur,state,2022,m40_entry,8884,min income of percentile 41
+W.P. Kuala Lumpur,state,2024,m40_entry,9634,min income of percentile 41
+W.P. Kuala Lumpur,state,2019,near_m40_floor,6626,min income of percentile 21
+W.P. Kuala Lumpur,state,2022,near_m40_floor,6273,min income of percentile 21
+W.P. Kuala Lumpur,state,2024,near_m40_floor,6756,min income of percentile 21
+W.P. Kuala Lumpur,state,2019,t20_entry,16640,min income of percentile 81
+W.P. Kuala Lumpur,state,2022,t20_entry,16779,min income of percentile 81
+W.P. Kuala Lumpur,state,2024,t20_entry,17052,min income of percentile 81
+W.P. Labuan,state,2019,m40_entry,5910,min income of percentile 41
+W.P. Labuan,state,2022,m40_entry,6025,min income of percentile 41
+W.P. Labuan,state,2024,m40_entry,6356,min income of percentile 41
+W.P. Labuan,state,2019,near_m40_floor,4275,min income of percentile 21
+W.P. Labuan,state,2022,near_m40_floor,4700,min income of percentile 21
+W.P. Labuan,state,2024,near_m40_floor,4418,min income of percentile 21
+W.P. Labuan,state,2019,t20_entry,11390,min income of percentile 81
+W.P. Labuan,state,2022,t20_entry,10803,min income of percentile 81
+W.P. Labuan,state,2024,t20_entry,11635,min income of percentile 81
+W.P. Putrajaya,state,2019,m40_entry,8650,min income of percentile 41
+W.P. Putrajaya,state,2022,m40_entry,8970,min income of percentile 41
+W.P. Putrajaya,state,2024,m40_entry,9627,min income of percentile 41
+W.P. Putrajaya,state,2019,near_m40_floor,5990,min income of percentile 21
+W.P. Putrajaya,state,2022,near_m40_floor,6296,min income of percentile 21
+W.P. Putrajaya,state,2024,near_m40_floor,6825,min income of percentile 21
+W.P. Putrajaya,state,2019,t20_entry,16330,min income of percentile 81
+W.P. Putrajaya,state,2022,t20_entry,18324,min income of percentile 81
+W.P. Putrajaya,state,2024,t20_entry,19032,min income of percentile 81

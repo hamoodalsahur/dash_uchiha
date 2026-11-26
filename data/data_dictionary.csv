@@ -54,3 +54,68 @@ fact_map.csv,poverty_shown,Absolute poverty of value_year,% of households,fact_d
 fact_map.csv,tier_shown,tier for 2024 shapes; 'split in 2024 (2022 value)' for the five split parents,category,pipeline (decision D8),derived
 fact_map.csv,lat,Latitude of a dot (blank for polygons),decimal degrees,"OpenStreetMap Nominatim, retrieved 25 Nov 2026 (ODbL)",observed
 fact_map.csv,lon,Longitude of a dot (blank for polygons),decimal degrees,"OpenStreetMap Nominatim, retrieved 25 Nov 2026 (ODbL)",observed
+fact_mobility.csv,district_id,Joins dim_district (state|normalised district). 2019/2022 rows use the boundaries of that survey,text,pipeline,identifier
+fact_mobility.csv,year,"Survey year: 2019, 2022 or 2024",year,DOSM HIES,identifier
+fact_mobility.csv,income_median,Median gross monthly household income,RM/month,"DOSM hh_income_district (state table for KL, Labuan, Putrajaya, Perlis 2024)",observed
+fact_mobility.csv,income_mean,Mean gross monthly household income,RM/month,DOSM hh_income_district,observed
+fact_mobility.csv,households,Estimated households (district population / state average household size),households,pipeline from population_district + hh_lq_state,estimated
+fact_mobility.csv,dependency,Children (0-14) plus people 65+ per working-age person (15-64),ratio,DOSM population_district,derived
+fact_mobility.csv,expenditure_mean,"Mean monthly household consumption expenditure (2022, 2024)",RM/month,DOSM hies_district,observed
+fact_mobility.csv,gini,Gini coefficient of household income,0-1,DOSM hh_inequality_district,observed
+fact_mobility.csv,m40_line,National M40 entry line for that survey year (bottom of M40),RM/month,"DOSM published: 4,850 (2019), 5,250 (2022), 5,860 (2024)",observed
+fact_mobility.csv,near_m40_floor,Bottom of the 'near-M40' band = top of the national B20 (B21-B40 is the upper half of B40),RM/month,"DOSM published 3,820 (2024); percentile-21 minimum for earlier years",observed
+fact_mobility.csv,state_m40_line,The state's own M40 entry line (percentile-41 minimum of the state distribution). Context only; national line is the main comparison,RM/month,DOSM hies_state_percentile,derived
+fact_mobility.csv,gap_rm,National M40 line minus district median income. Positive = median below the line,RM/month,pipeline (kantung.mobility),derived
+fact_mobility.csv,attainment,District median as a share of the national M40 line (1 = at the line),ratio,pipeline (kantung.mobility),derived
+fact_mobility.csv,share_below_m40,Estimated share of households below the national M40 line (lognormal from median and mean income),0-1,pipeline (kantung.mobility),estimated
+fact_mobility.csv,share_near_m40,Estimated share of households in the near-M40 band (between near_m40_floor and m40_line),0-1,pipeline (kantung.mobility),estimated
+fact_mobility.csv,expenditure_share,"Mean expenditure / mean income. Ratio of district averages, not a household savings rate",ratio,pipeline (kantung.mobility),derived
+fact_mobility.csv,completion_upper_secondary,Upper-secondary school completion rate for the district's education office (government schools). Can exceed 100,%,MOE via data.gov.my completion_school_district,observed
+fact_mobility.csv,completion_match,"How the education office was matched: 'direct match' or 'shared education office' (one office covers several districts). Blank = office split across districts, left out",text,pipeline (kantung.mobility),label
+fact_mobility.csv,share_below_m40_observed_low,"Lowest share below RM5,860 consistent with the published income-band table (Penang 2024 only)",0-1,DOSM HIS Pulau Pinang 2024 Table 1.11,observed
+fact_mobility.csv,share_below_m40_observed_high,"Highest share below RM5,860 consistent with the published income-band table (Penang 2024 only)",0-1,DOSM HIS Pulau Pinang 2024 Table 1.11,observed
+fact_mobility.csv,boundary_changed,True for the 2025 new districts and their parents; growth is not compared for these,true/false,pipeline (SPLITS_2025),label
+fact_mobility.csv,income_growth_1924,Annual growth of median income 2019 to 2024 (2024 rows only),fraction/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,income_growth_real_1924,"Same, after state CPI inflation (2024 prices)",fraction/yr,pipeline + DOSM cpi_2d_state,derived
+fact_mobility.csv,line_growth_1924,Annual growth of the national M40 line 2019 to 2024,fraction/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,catch_up_1924,"Annual change in log(median / M40 line), 2019 to 2024. Positive = closing the gap",log points/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,catch_up_status_1924,closing / falling behind / about level (within 0.25 points a year),text,pipeline (kantung.mobility),label
+fact_mobility.csv,income_growth_2224,Annual growth of median income 2022 to 2024,fraction/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,income_growth_real_2224,"Same, after state CPI inflation",fraction/yr,pipeline + DOSM cpi_2d_state,derived
+fact_mobility.csv,line_growth_2224,Annual growth of the national M40 line 2022 to 2024,fraction/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,catch_up_2224,"Annual change in log(median / M40 line), 2022 to 2024",log points/yr,pipeline (kantung.mobility),derived
+fact_mobility.csv,catch_up_status_2224,"closing / falling behind / about level, 2022 to 2024",text,pipeline (kantung.mobility),label
+fact_mobility.csv,gini_change_2224,Gini 2024 minus Gini 2022,0-1 points,pipeline (kantung.mobility),derived
+fact_mobility.csv,gini_trend_2224,more equal / more unequal / no clear change (within 0.02). District Gini is noisy,text,pipeline (kantung.mobility),label
+fact_mobility.csv,required_growth_2030_fixed,"Annual growth the 2024 median needs to reach RM5,860 by 2030. Negative = already above",fraction/yr,pipeline (kantung.mobility),modelled
+fact_mobility.csv,required_growth_2030_real,"Same, if the line rises with 2019-24 inflation (1.68%/yr)",fraction/yr,pipeline (kantung.mobility),modelled
+fact_mobility.csv,required_growth_2030_moving,"Same, if the line keeps rising at its 2019-24 pace (3.86%/yr)",fraction/yr,pipeline (kantung.mobility),modelled
+fact_mobility.csv,years_to_line_own_pace,Whole years for the median to reach a line rising 3.86%/yr at the district's own 2019-24 growth. 0 = already above; blank = never at that pace or not comparable,years,pipeline (kantung.mobility),modelled
+fact_mobility.csv,share_status,"'observed range + estimate' where a published band table exists, else 'estimate'",text,pipeline (kantung.mobility),label
+fact_lines.csv,geography,'Malaysia' or a state name,text,DOSM,identifier
+fact_lines.csv,level,national or state,text,pipeline,label
+fact_lines.csv,year,Survey year,year,DOSM HIES,identifier
+fact_lines.csv,line,"near_m40_floor (top of B20), m40_entry (bottom of M40) or t20_entry (bottom of T20)",text,pipeline,label
+fact_lines.csv,value_rm,Line value,RM/month,DOSM published line or percentile minimum,observed
+fact_lines.csv,source,'DOSM published line' or which percentile minimum it came from,text,pipeline,label
+fact_scenarios.csv,start_income_rm,"Example 2024 household income (illustrative, not a real household)",RM/month,assumption,modelled
+fact_scenarios.csv,income_growth_pct,Assumed annual income growth,%/yr,assumption,modelled
+fact_scenarios.csv,line_growth_pct,"Assumed annual growth of the M40 line (0 = fixed RM5,860; 3.85 = 2019-24 pace)",%/yr,assumption,modelled
+fact_scenarios.csv,year,Scenario year 2024-2030,year,pipeline,identifier
+fact_scenarios.csv,income_rm,Income in that year under the assumed growth,RM/month,pipeline (kantung.mobility.scenario_grid),modelled
+fact_scenarios.csv,line_rm,M40 line in that year under the assumed line growth,RM/month,pipeline (kantung.mobility.scenario_grid),modelled
+fact_scenarios.csv,gap_rm,"Line minus income, floored at 0",RM/month,pipeline (kantung.mobility.scenario_grid),modelled
+fact_scenarios.csv,reached,True if income is at or above the line that year,true/false,pipeline (kantung.mobility.scenario_grid),modelled
+fact_scenarios.csv,required_growth_pct,Annual growth needed to reach the 2030 line from the start income,%/yr,pipeline (kantung.mobility.scenario_grid),modelled
+fact_scenarios.csv,years_to_line,Whole years to reach the line at the assumed rates; blank = never,years,pipeline (kantung.mobility.scenario_grid),modelled
+fact_income_bands.csv,district_id,District (or 'Pulau Pinang|(state total)'),text,pipeline,identifier
+fact_income_bands.csv,year,Survey year,year,DOSM HIS,identifier
+fact_income_bands.csv,income_concept,gross monthly household income,text,DOSM HIS,label
+fact_income_bands.csv,band_lower_rm,Bottom of the income band,RM/month,DOSM HIS Pulau Pinang 2024 Table 1.11,observed
+fact_income_bands.csv,band_upper_rm,Top of the band (exclusive); blank = open-ended top band,RM/month,DOSM HIS Pulau Pinang 2024 Table 1.11,observed
+fact_income_bands.csv,household_share_pct,Share of households in the band,%,DOSM HIS Pulau Pinang 2024 Table 1.11,observed
+fact_income_bands.csv,source,"Report, table and pages transcribed from",text,DOSM,label
+fact_state_wages.csv,state,"State, or Malaysia",text,DOSM formal_wages_state,identifier
+fact_state_wages.csv,month,Reference month,date,DOSM formal_wages_state,identifier
+fact_state_wages.csv,wages_median,"Median monthly wage of formal-sector employees (EPF/SOCSO records). Individuals, not households; excludes informal and gig work",RM/month,DOSM formal_wages_state,observed
+fact_state_wages.csv,employees,Number of formal-sector employees,people,DOSM formal_wages_state,observed

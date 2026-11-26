@@ -1,0 +1,8 @@
+dataset,url,retrieved_utc,bytes,sha256
+hies_malaysia_percentile,https://storage.dosm.gov.my/hies/hies_malaysia_percentile.parquet,2026-11-26T20:02Z,6510,b68f780ae4fb151e92fc40d00079cd9888ab2c39347da667694cc2dd788a6e92
+hies_state_percentile,https://storage.dosm.gov.my/hies/hies_state_percentile.parquet,2026-11-26T20:02Z,56577,e84f6cad31a0b22a28d8c2b4f0337827bb8f07224b76a6df97ef512389a205d4
+hies_district,https://storage.dosm.gov.my/hies/hies_district.parquet,2026-11-26T20:02Z,11554,dc996ca2be80d3b856796d7684b60618178f1d7d2c7f9f49a99293574e87e227
+hh_inequality_district,https://storage.dosm.gov.my/hies/hh_inequality_district.parquet,2026-11-26T20:02Z,5651,9f3e478a489a59ac72eb73da0173f66ed88ab12fa13f3d7b4060f41a71b375b4
+cpi_2d_state,https://storage.dosm.gov.my/cpi/cpi_2d_state.parquet,2026-11-26T20:02Z,57271,03a888d44b96b228f4052867d3428a697b68623d634d47801e707cac497b6a18
+formal_wages_state,https://storage.dosm.gov.my/labour/formal_wages_state.parquet,2026-11-26T20:02Z,7125,4beb53d7ac8307b780949a099fd238dcb8343d0c9de49f9d3d7ebaf97fe546b1
+completion_school_district,https://api.data.gov.my/data-catalogue?id=completion_school_district&limit=100000,2026-11-26T20:02Z,270683,e31fcdc90f4ca47c6c80734f22e1cf3ad3728e09322c352ed4775ef3f463ea41

@@ -6,6 +6,31 @@ How to add an entry: copy the template at the bottom, put it above the last entr
 
 ---
 
+## 27 Nov 2026: B40 → M40 tables are ready (Hamood)
+
+**What changed:** The B40 → M40 layer is built and tested (PR #5, 77 tests pass). Five new tables are in `powerbi_tables/` on branch `coder1/b40-mobility`:
+- `fact_mobility`: one row per district and survey year: gap to the M40 line, estimated share of households below it, near-M40 share, real growth, catch-up status, Gini trend, school completion, and growth needed by 2030 (fixed, real and moving line).
+- `fact_lines`: national and state B40/M40/T20 lines by year.
+- `fact_scenarios`: ready-made 2024–2030 income and line paths for the planner, so no DAX maths is needed.
+- `fact_income_bands`: Penang income bands (published), for the distribution chart.
+- `fact_state_wages`: monthly formal wages by state up to mid-2026 (context layer).
+
+Every column is in `data/data_dictionary.csv`.
+
+**Numbers, now from the pipeline (use these, not yesterday's slide):**
+- 96 of 153 comparable districts grew slower than the M40 line in 2019–2024 (line +3.86%/yr, typical district +3.1%/yr, +1.5%/yr after inflation). 94 are tagged "falling behind", 9 "about level", 50 "closing".
+- 123 of 166 districts have a 2024 median below RM5,860.
+- Share-below-line check: 40.5% nationally in 2022 (should be 40%), and all 5 Penang districts fall inside the published ranges.
+
+**What you need to do:**
+- **Apipi:** load the five tables (relationship: `dim_district[district_id]` → `fact_mobility[district_id]`). Filter `fact_mobility` to year 2024 for the map. Use `catch_up_status_1924` for the Risk Outlook tag and `fact_scenarios` for the planner card.
+- **Aiman:** check the scenario logic in `kantung/mobility.py` and `tests/test_mobility.py`. Add the 2022→2024 baseline comparison if time allows.
+- **Boboi:** method text is in `docs/PIPELINE.md` (section "B40 -> M40 layer"). Quote the numbers above.
+
+**Links:** PR #5 on GitHub. Merge order: #1, #2, #3, #5, then #4.
+
+---
+
 ## 26 Nov 2026: B40 → M40 direction (Hamood)
 
 **What changed:** Atlas keeps its poverty work and adds a second question: how far each district is from the M40 entry line, whether it is catching up, and what income growth would close the gap by 2030. See decision [D15](docs/decision_log.md).

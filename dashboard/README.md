@@ -5,3 +5,5 @@
 - `map/` holds the boundary file (geoBoundaries MYS ADM2, 2020, CC BY 3.0) and any TopoJSON conversion.
 - Commit the .pbix after each working milestone with a clear message, e.g. `dashboard: page 1 map + KPI cards`.
 - Before submission: export `Dashboard.pdf`, open the .pbix on a second Windows machine, check no local paths.
+
+- **B40 → M40 layer:** step-by-step tables, measures, expected numbers and page additions are in [`B40_LAYER_GUIDE.md`](B40_LAYER_GUIDE.md).

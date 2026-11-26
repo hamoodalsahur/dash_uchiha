@@ -6,6 +6,22 @@ How to add an entry: copy the template at the bottom, put it above the last entr
 
 ---
 
+## 27 Nov 2026 (later): Power BI guide for the B40 layer, everything merged (Hamood)
+
+**What changed:**
+- PRs #1–#5 are merged. Everyone: `git checkout main` then `git pull` before you start.
+- New: [`dashboard/B40_LAYER_GUIDE.md`](dashboard/B40_LAYER_GUIDE.md): which tables to load, relationships, copy-paste DAX measures, the numbers each one must show, and what to add on each page.
+- New table `fact_map_mobility.csv`: the map's 166 shapes coloured by income band (below near-M40 / near M40 / at or above M40) and catch-up status.
+- `submission/README.txt` is now v0.2 and covers the B40 layer. `[TO FILL]` / `[TO CONFIRM]` spots are still Apipi's.
+- `review_checks.py` now writes to `review_out/` instead of a path that only existed on one computer.
+
+**What you need to do:**
+- **Apipi:** follow `dashboard/B40_LAYER_GUIDE.md`. Check the 5 expected numbers in section 2 before styling anything.
+- **Aiman:** practice task still open: remove the "Persistent first" rule from `export_powerbi.py` (decision D11).
+- **Boboi:** README.txt sections 5–6 now include the B40 assumptions and limits. Reuse that wording in the report.
+
+---
+
 ## 27 Nov 2026: B40 → M40 tables are ready (Hamood)
 
 **What changed:** The B40 → M40 layer is built and tested (PR #5, 77 tests pass). Five new tables are in `powerbi_tables/` on branch `coder1/b40-mobility`:

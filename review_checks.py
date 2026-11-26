@@ -1,5 +1,6 @@
 """Run the checks raised by the two external reviews against real DOSM data."""
 import warnings
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -173,5 +174,7 @@ pooled = smf.ols("lp ~ p_rate_z + u_rate_z + piped_water_z + electricity_z + dep
 print("pooled (between+within) R2 %.2f | FE within-model R2 %.2f" % (pooled.rsquared, fe.rsquared))
 
 # exports for downstream use
-y24.to_csv("/home/claude/kantung/out_panel_2024.csv", index=False)
-BT.to_csv("/home/claude/kantung/out_backtest.csv", index=False)
+OUT = Path(__file__).parent / "review_out"
+OUT.mkdir(exist_ok=True)
+y24.to_csv(OUT / "out_panel_2024.csv", index=False)
+BT.to_csv(OUT / "out_backtest.csv", index=False)

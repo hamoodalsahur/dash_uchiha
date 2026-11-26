@@ -25,3 +25,6 @@ report/*.pdf
 # Power BI temp/backup files
 *.pbix.bak
 *.pbit.bak
+
+# Scratch output from review_checks.py
+review_out/

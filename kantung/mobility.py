@@ -260,3 +260,23 @@ def scenario_grid(start_incomes=(3000, 3500, 4000, 4500, 5000, 5500),
                                  "required_growth_pct": round(100 * required_growth(y0, t0, h, TARGET_YEAR - BASE_YEAR), 2),
                                  "years_to_line": years_to_cross(y0, t0, g, h)})
     return pd.DataFrame(rows)
+
+
+def map_layer(fact_map: pd.DataFrame, mob: pd.DataFrame) -> pd.DataFrame:
+    """One row per map shape (same keys as fact_map) with the B40 -> M40 values
+    it is shaded by. Each shape uses the year fact_map shades it with (split
+    parents show 2022, per D8), and that year's lines."""
+    f = mob.set_index(["district_id", "year"])
+    rows = []
+    for _, s in fact_map.iterrows():
+        r = f.loc[(s.district_id, s.value_year)]
+        y = r.income_median
+        band = (np.nan if pd.isna(y) else "below near-M40 band" if y < r.near_m40_floor
+                else "near M40 (B21-B40)" if y < r.m40_line else "at or above M40 line")
+        status = r.get("catch_up_status_1924", np.nan)
+        catch = ("boundary changed (not compared)" if bool(r.boundary_changed)
+                 else status if isinstance(status, str) else "not compared")
+        rows.append({"shape_key": s.shape_key, "value_year": int(s.value_year), "income_median_shown": y,
+                     "income_band_shown": band, "share_below_m40_shown": r.share_below_m40,
+                     "catch_up_shown": catch})
+    return pd.DataFrame(rows)

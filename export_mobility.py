@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 from kantung.core import _read, DATA
-from kantung.mobility import build_mobility, load_lines, load_penang_bands, scenario_grid
+from kantung.mobility import build_mobility, load_lines, load_penang_bands, map_layer, scenario_grid
 
 OUT = Path(__file__).parent / "powerbi_tables"
 OUT.mkdir(exist_ok=True)
@@ -18,6 +18,9 @@ mob.insert(0, "district_id", mob.state + "|" + mob.dkey)
 mob = mob.drop(columns=["state", "dkey", "src_note"])
 mob["share_status"] = np.where(mob.share_below_m40_observed_low.notna(), "observed range + estimate", "estimate")
 mob.to_csv(OUT / "fact_mobility.csv", index=False)
+
+# Map layer: same shapes as fact_map (run build_map.py first if the map changed)
+map_layer(pd.read_csv(OUT / "fact_map.csv"), mob).to_csv(OUT / "fact_map_mobility.csv", index=False)
 
 load_lines().to_csv(OUT / "fact_lines.csv", index=False)
 scenario_grid().to_csv(OUT / "fact_scenarios.csv", index=False)
@@ -40,8 +43,10 @@ print("comparable districts 2019-24:", int(comp.sum()), "| grew slower than line
 print("catch-up 2019-24:", y.catch_up_status_1924.value_counts().to_dict())
 print("median growth nominal / real %/yr:", round(100 * y.income_growth_1924.median(), 2), round(100 * y.income_growth_real_1924.median(), 2))
 print("2024 districts with median below RM5,860:", int((y.income_median < 5860).sum()), "of", int(y.income_median.notna().sum()))
+mm = pd.read_csv(OUT / "fact_map_mobility.csv")
+print("map bands:", mm.income_band_shown.value_counts().to_dict(), "| map catch-up:", mm.catch_up_shown.value_counts().to_dict())
 for yr in (2022, 2024):
     d = mob[mob.year == yr].dropna(subset=["share_below_m40", "households"])
     print(yr, "household-weighted share below line:", round(np.average(d.share_below_m40, weights=d.households), 3))
 print("rows:", {f: sum(1 for _ in open(OUT / f)) - 1 for f in
-                ("fact_mobility.csv", "fact_lines.csv", "fact_scenarios.csv", "fact_income_bands.csv", "fact_state_wages.csv")})
+                ("fact_mobility.csv", "fact_map_mobility.csv", "fact_lines.csv", "fact_scenarios.csv", "fact_income_bands.csv", "fact_state_wages.csv")})

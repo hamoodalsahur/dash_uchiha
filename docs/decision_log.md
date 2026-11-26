@@ -18,3 +18,4 @@ Add a row for every decision. This is evidence of human contribution for the AI 
 | D12 | 25 Nov | Video closing ask | Outreach at persistent districts + DOSM publish SEs and household counts | Team | Finals ask after 5 Dec |
 | D13 | 25 Nov | Literature anchors | Geographic targeting > Malaysian sources > composite indicators | Team | |
 | D14 | 25 Nov | Collaboration | Private GitHub repo + Google Drive | Team | Commit history as evidence |
+| D15 | 26 Nov | Research focus | Add B40 → M40 layer (gap to M40 line, catch-up, 2030 growth needed) beside the poverty work | Team | Team's refined question; poverty results stay as the validated core |

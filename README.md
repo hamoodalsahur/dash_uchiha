@@ -3,6 +3,7 @@
 District-level decision tool: where hardship concentrates, where it persists, and which allocation rule reaches the most poor households. Built only on official DOSM open data.
 
 **Start here**
+0. Latest team news: [`UPDATES.md`](UPDATES.md) — read this first.
 1. New to GitHub? Read [`GITHUB_GUIDE.md`](GITHUB_GUIDE.md) (15 minutes).
 2. Then read [`docs/Atlas_Team_Handbook.md`](docs/Atlas_Team_Handbook.md) — the project's source of truth. Paste it into your own Claude chat.
 3. Locked decisions: [`docs/decision_log.md`](docs/decision_log.md).
